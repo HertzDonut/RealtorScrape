@@ -1,0 +1,3276 @@
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head><script src="https://apis.google.com/_/scs/abc-static/_/js/k=gapi.lb.en.Oupypiulh58.O/m=client/rt=j/sv=1/d=1/ed=1/rs=AHpOoo_CVmSAWqMsGCHgMRyaSvlE8hY6sw/cb=gapi.loaded_0?le=scs" async=""></script><script type="text/javascript" async="" src="https://apis.google.com/js/client.js?onload=__gigya_handleClientLoad" gapi_processed="true"></script><script src="https://connect.facebook.net/signals/config/254019009807929?v=2.9.98&amp;r=stable" async=""></script><script src="https://connect.facebook.net/signals/config/507373293206391?v=2.9.98&amp;r=stable" async=""></script><script src="https://connect.facebook.net/signals/plugins/identity.js?v=2.9.98" async=""></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" id="www-widgetapi-script" src="https://www.youtube.com/s/player/21246a91/www-widgetapi.vflset/www-widgetapi.js" async=""></script><script type="text/javascript" async="" src="https://www.google-analytics.com/plugins/ua/linkid.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-Y07J3B53QP&amp;l=dataLayer&amp;cx=c"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script id="iframe-api" src="https://www.youtube.com/iframe_api" defer="" async=""></script><script async="" defer="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-WXXF7GN"></script><script src="/dnight-Exit-shall-Braith-Then-why-vponst-is-proc" async=""></script><meta charset="utf-8"><meta name="theme-color" content="#D0191D"><meta name="viewport" content="width=device-width"><meta name="google" content="notranslate"><meta http-equiv="CACHE-CONTROL" content="NO-CACHE"><meta http-equiv="PRAGMA" content="NO-CACHE"><meta name="GOOGLEBOT" content="NOARCHIVE"><meta name="format-detection" content="telephone=no"><meta name="shareaholic:site_id" content="a2430a87e639e6cf0f00273171d97103"><link rel="prefetch" href="/bundles/css/desktop/page/listing" as="style">
+                                                    <link rel="prefetch" href="/bundles/css/desktop/page/map/locallogic" as="style"><link rel="prefetch" href="/bundles/js/desktop/page/listing" as="script">
+                                                   <link rel="prefetch" href="/bundles/js/desktop/page/map" as="script">
+                                                   <link rel="prefetch" href="/bundles/js/desktop/page/index" as="script">
+    <link rel="alternate" hreflang="en" href="https://www.realtor.ca/realtor-search-results">
+    
+    <link rel="alternate" hreflang="fr" href="https://www.realtor.ca/resultats-de-recherche-pour-realtor">
+    
+    <link rel="canonical" href="https://www.realtor.ca/realtors/canada">
+    <title>
+	REALTOR® Search Results | REALTOR.ca
+</title>
+
+    <!-- FavIcon and browser tile defaults (begin)-->
+    <link id="favicon" rel="shortcut icon" href="/images/common/icons/browser/favicon.ico?v=3" type="image/x-icon"><link rel="icon" href="/images/common/icons/browser/favicon.png?v=3" type="image/png"><link rel="icon" sizes="32x32" href="/images/common/icons/browser/favicon-32.png?v=3" type="image/png"><link rel="icon" sizes="64x64" href="/images/common/icons/browser/favicon-64.png?v=3" type="image/png"><link rel="icon" sizes="96x96" href="/images/common/icons/browser/favicon-96.png?v=3" type="image/png"><link rel="icon" sizes="196x196" href="/images/common/icons/browser/favicon-196.png?v=3" type="image/png"><link rel="apple-touch-icon" sizes="60x60" href="/images/common/icons/browser/apple-touch-icon-60x60.png?v=3"><link rel="apple-touch-icon" sizes="76x76" href="/images/common/icons/browser/apple-touch-icon-76x76.png?v=3"><link rel="apple-touch-icon" sizes="114x114" href="/images/common/icons/browser/apple-touch-icon-114x114.png?v=3"><link rel="apple-touch-icon" sizes="120x120" href="/images/common/icons/browser/apple-touch-icon-120x120.png?v=3"><link rel="apple-touch-icon" sizes="120x120" href="/images/common/icons/browser/apple-touch-icon-120x120-precomposed.png?v=3"><link rel="apple-touch-icon" sizes="144x144" href="/images/common/icons/browser/apple-touch-icon-144x144.png?v=3"><link rel="apple-touch-icon" sizes="152x152" href="/images/common/icons/browser/apple-touch-icon-152x152.png?v=3"><link rel="apple-touch-icon" sizes="180x180" href="/images/common/icons/browser/apple-touch-icon-180x180.png?v=3"><meta name="msapplication-TileImage" content="/images/common/icons/browser/favicon-144.png?v=3"><meta name="msapplication-TileColor" content="#FFFFFF">
+    <!-- FavIcon and browser tile defaults (end) -->
+
+
+    
+    <!-- Script for Azure ApplicationInsights -->
+    <link rel="preconnect" href="//az416426.vo.msecnd.net" crossorigin="">
+
+    <script type="text/javascript">var appInsights = window.appInsights || function (config) { function r(config) { t[config] = function () { var i = arguments; t.queue.push(function () { t[config].apply(t, i) }) } } var t = { config: config }, u = document, e = window, o = "script", s = u.createElement(o), i, f; for (s.src = config.url || "//az416426.vo.msecnd.net/scripts/a/ai.0.js", u.getElementsByTagName(o)[0].parentNode.appendChild(s), t.cookie = u.cookie, t.queue = [], i = ["Event", "Exception", "Metric", "PageView", "Trace"]; i.length;)r("track" + i.pop()); return r("setAuthenticatedUserContext"), r("clearAuthenticatedUserContext"), config.disableExceptionTracking || (i = "onerror", r("_" + i), f = e[i], e[i] = function (config, r, u, e, o) { var s = f && f(config, r, u, e, o); return s !== !0 && t["_" + i](config, r, u, e, o), s }), t }({ instrumentationKey:"33b05b9d-84a5-4f99-829c-689a27ea5c4d" }); window.appInsights = appInsights; appInsights.trackPageView();</script><script src="//az416426.vo.msecnd.net/scripts/a/ai.0.js"></script>
+    <link rel="manifest" href="/manifest.json"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""><link rel="preload" as="style" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro"><link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet"><link rel="preconnect" href="https://cdn.realtor.ca" crossorigin="">
+
+    <script src="/Scripts/Desktop/Translations.aspx?ver=1.0.8444.37472&amp;k=1&amp;lang=en"></script>
+
+    <link href="/bundles/css/desktop?v=1CGQ3UrEXEXQCnGGMbOC9Z5xodZXc70gJVg2PChV-Do1&amp;ver=1.0.8444.37472&amp;k=1" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="/bundles/js/desktop?v=3mjbbgIKJ2eocwHEjSIJzZk_RchQnIi1lDNzTfpzLAQ1&amp;ver=1.0.8444.37472&amp;k=1"></script>
+<script type="text/javascript" defer="" src="/bundles/gigya?v=FsfM_boWoVjZRR3FkrCd0DGPPydv4XN3T-OFdZGL4i81&amp;ver=1.0.8444.37472&amp;k=1"></script>
+
+
+    
+
+
+    
+
+    <script src="/Scripts/ServerScript.aspx?ver=1.0.8444.37472&amp;k=1&amp;lang=en&amp;d=Desktop"></script>
+    <script> callAfterDOMLoaded(() => { $(window).load(function(){  Utilities.loadScript('/scripts/foresee/foresee-ACS-Live.js');}); });</script>
+
+    <!-- 
+        Preserve the Document.Referer before Google Tag Manager since
+        its used heavily in the Analytics part... 
+    -->
+    <script>
+        (function () {
+            try {
+                if (typeof sessionStorage !== 'undefined') {
+                    var distilReferrer = sessionStorage.getItem('distil_referrer');
+                    if (distilReferrer) {
+                        Object.defineProperty(document, "referrer", {
+                            get: function () { return distilReferrer; },
+                        });
+                        sessionStorage.removeItem("distil_referrer");
+                    }
+                }
+            } catch (e) { }
+        })()
+    </script>
+
+    <!-- START OF BASE DATALAYER -->
+                 
+                    <script type="text/javascript" id="GTMDataLayerCode">
+                         window.dataLayer = window.dataLayer || [];
+                        dataLayer.push({ 
+                           event: 'e_pageview',
+                           pagePath: (location.pathname + (location.search || '')),
+                           pageTitle: document.title,
+                           visitor: {
+                               loggedIn: 'No',
+                               userId: '',
+                               favouriteCountValue: '0',
+                               saveSearchCountValue: '0'
+                           },
+                           site: {
+                               language: 'EN'
+                           }
+                        });
+                    </script>
+    <!-- END OF BASE DATALAYER -->
+
+    <!-- Page-hiding snippet (recommended)  -->
+    
+    <!-- END OF Page-hiding snippet (recommended)  -->
+
+    <!-- Modified Analytics tracking code with Optimize plugin -->
+    
+    <!-- End of Modified Analytics tracking code with Optimize plugin -->
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                        'https://www.googletagmanager.com/gtm.js?id='+i+dl; f.parentNode.insertBefore(j,f);
+                        })(window,document,'script','dataLayer','GTM-WXXF7GN');</script>
+                 
+    <!-- End Google Tag Manager -->
+
+
+
+    <!-- Analytics -->
+    <script type="text/javascript">
+document.addEventListener('DOMContentLoaded', function(event) {
+jQuery.support.cors = true;
+$.ajaxSetup({ cache: false });
+});
+function logAnalytics(listingId,eventType,hasOpenHouse) {
+if (listingId!='' && listingId!='0'){
+var url = 'https://analytics.crea.ca/LogEvents.svc/LogEvents?&DestinationID=384&UUID=38166bdf-2887-4259-ab21-4f73f8e23c57&IP=174.95.73.243&LanguageId=1';
+url += '&ListingId=' + listingId;
+url += '&EventType=' + eventType;
+ if(hasOpenHouse != null){ if(hasOpenHouse){url += '&ActiveOpenHouse=1';}else{url+='&ActiveOpenHouse=0';}}
+ var req = $.ajax({url:url,crossDomain:true,dataType:'json',type:'get',timeout:9000});
+ req.error(function() {var xhr=req;if(xhr && xhr.readystate != 4){xhr.abort();}});
+}}
+</script>
+
+    <!-- End Analytics -->
+
+
+
+
+    
+
+    
+
+    <script>
+        var page;
+        Utilities.termOfUseRedirectExec();
+        MasterPages.Desktop.initialize();
+        $(document).ready(function () {
+            if (ApplicationState.UserIsSignedIn == false) {
+                GigyaInit.setupUrlForwarding();
+            }
+            page = new MasterPages.Desktop(null, null,true);
+        });
+    </script>
+
+
+
+    <style>
+        @media print {
+            #topRedStrip {
+                margin: 0 30px 0 30px !important;
+                width: calc(100% - 60px) !important;
+            }
+        }
+
+        #topRedStrip {
+            background-color: #D0191D;
+            /*position: absolute;
+            top: 0;*/
+            /*height: 60px;*/
+            height: 56px;
+            width: 100%;
+            z-index: -1;
+        }
+
+        #mainCon {
+            /*max-width: 1440px;*/
+            max-width: 1360px;
+            min-width: 1260px;
+            margin: auto;
+            margin-top: -56px;
+        }
+    </style>
+<meta name="description" content="View search results from REALTOR.ca’s directory of REALTORS® in Canada."><meta name="keywords" content="real estate listings, homes for sale, homes for rent, property listings"><script type="text/javascript" src="//cdns.gigya.com/JS/gigya.js?apiKey=3_mrQiIl6ov44s2X3j6NGWVZ9SDDtplqV7WgdcyEpGYnYxl7ygDWPQHqQqtpSiUfko">{ enabledProviders: "twitter,googleplus,linkedin,apple", lang: "en", bypassCookiePolicy: "always" }</script><script type="text/javascript" async="" defer="" src="/scripts/foresee/foresee-ACS-Live.js"></script><meta http-equiv="origin-trial" content="A751Xsk4ZW3DVQ8WZng2Dk5s3YzAyqncTzgv+VaE6wavgTY0QHkDvUTET1o7HanhuJO8lgv1Vvc88Ij78W1FIAAAAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjgwNjUyNzk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A751Xsk4ZW3DVQ8WZng2Dk5s3YzAyqncTzgv+VaE6wavgTY0QHkDvUTET1o7HanhuJO8lgv1Vvc88Ij78W1FIAAAAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjgwNjUyNzk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><script src="//gateway.foresee.com/sites/realtor-ca/production/gateway.min.js" type="text/javascript" async="true" data-vendor="fs" data-role="gateway"></script><style>
+/* ForSee Feedback CSS Styles */
+._acsbadge--default { width: auto !important; } .acs-feedback__textarea--count { background-color: white; padding: 0 4px !important; }</style><link id="fs-css-1" rel="stylesheet" type="text/css" href="//gateway.foresee.com/code/19.14.10-fs/templates/feedback/default/main.css"></head>
+<body data-new-gr-c-s-check-loaded="14.1100.0" data-gr-ext-installed="">
+    <!-- Google Tag Manager(noscript) --> 
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXXF7GN" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>  
+<!-- End Google Tag Manager(noscript) --> 
+
+    <!-- No auto-complete off = chrome RANDOMLY autofilling input controls -->
+    <form method="post" action="./realtor-search-results" id="form1" autocomplete="off">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="EuSThw0R3LNFwOz17ax4/Pj4VfWQtG8UPLaaZ09n93Ck6Ma7stCXEcFJPiQ9l5cLWgs/C/4jCHK3KFwVqMSoc4/1Blo=">
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="5E62D0D9">
+</div>
+        
+        <div id="topRedStrip"></div>
+        <div id="loadingBar" class="loadingBar" style="display: none;"></div>
+        <div id="mainCon">
+
+            <span id="Header" class="ControlBaseWrapper " style=""> 
+<header id="header">
+
+    <div id="headerLeft">
+
+        <a href="/">
+            <img src="/images/logo.svg" style="height: 56px; width: 159px; vertical-align: middle; margin-left: -10px;" alt="REALTOR.ca logo"></a>
+
+        <div id="cmsPreviewCont" class="noPrint">
+            <div id="cmsPreviewInnerCont">
+                
+            </div>
+        </div>
+
+    </div>
+    <div id="headerRight" class="noPrint">
+        
+        <div class="currencyCon">
+            <div id="lnkCurrency">
+                    <div class="currencyInnerCon">
+                        <div class="headerCurrencyLabel">
+                            <span id="headerCurrencyDisplayName">CAD</span>
+                            <img class="dropdownIcon" style="height:24px; width: 24px;" src="/images/common/icons/svg/arrow-down-white2.svg" alt="">                            
+                        </div>
+                </div>
+            </div>
+        </div>
+        
+        <div style="margin-left: 70px;">
+            <div id="lnkProfileMenuSignin" class="profileMenuLink">
+                <img id="headerSignInImg" src="/images/common/icons/svg/profile-icon.svg" style="height: 32px; width: 32px;" alt="">
+                <div id="headerSignInText" class="profileMenuText">Sign In</div>
+            </div>
+        </div>
+
+        <div class="profileMenuHeaderCon">
+            <div id="lnkProfileMenuMyAccount" class="profileMenuLink" style="display: none;">
+                <img id="headerMyAccountImg" src="/images/common/icons/svg/profile-icon.svg" style="height: 32px; width: 32px;" alt="">
+                <div id="headerMyAccountText" class="profileMenuText"></div>
+            </div>
+            <div id="headerProfileDropdown" class="hide">
+                <a href="/my-account/account-information" id="lnkHeaderAccountInformation" class="m_hdr_dropdown_link">
+                    <div class="m_hdr_dropdown_menu">My Account</div>
+                </a>
+                <a href="/my-settings/search-criteria" id="lnkHeaderSearchCriteria" class="m_hdr_dropdown_link">
+                    <div class="m_hdr_dropdown_menu">My Settings</div>
+                </a>
+                <a href="/my-notification-preferences/preferences" id="lnkHeaderNotifications" class="m_hdr_dropdown_link">
+                    <div class="m_hdr_dropdown_menu">Email Notification Settings</div>
+                </a>
+                <a href="#" id="lnkHeaderLogout" class="m_hdr_dropdown_link">
+                    <div class="m_hdr_dropdown_menu">Sign Out</div>
+                </a>
+            </div>
+        </div>
+
+        <div style="margin-left: 50px;">
+
+            <span id="langToggle" class="ControlBaseWrapper " style=""> 
+
+<div class="toggleSwitchCon ">
+    <div class="toggleSwitchInnerCon">
+
+        
+                <a href="/realtor-search-results" class="toggleOption selected" data-value="1">EN</a>
+            
+                <a href="/resultats-de-recherche-pour-realtor" class="toggleOption " data-value="2">FR</a>
+            
+        <div class="toggleSelector" style="width: 50%; left: 0%;"></div>
+    </div>
+</div>
+
+
+<script>
+    var toggle = new Controls.Desktop.Toggle(null, 'langToggle');
+</script>
+</span>
+
+            
+        </div>
+    </div>
+</header>
+
+<script>          
+    var Header = new Controls.Desktop.Header(null, 'Header');
+</script>
+</span>
+            <span id="ctl35" class="ControlBaseWrapper " style=""> 
+<div id="headerMenu" class="noPrint">
+    <div class="headerMenuItem"><a href="/map">Find a Home</a></div>
+    <div class="headerMenuItem ">
+        <div class="headerMenuItemText">
+            
+    Find a REALTOR<sup>®</sup>
+            <img class="dropdownIcon" style="height: 8px; width: 15px;" src="/images/common/icons/svg/arrowdown.svg" alt="">
+        </div>
+        <div class="topMenuDropdownContent hide">
+            <a href="/realtors/location" class="topMenuDropdownItem">Location</a>
+            <a href="/realtors/name" class="topMenuDropdownItem">Name</a>
+            <a href="/brokerage" class="topMenuDropdownItem">Office</a>
+        </div>
+    </div>
+    <div class="headerMenuItem ">
+        <div class="headerMenuItemText">
+            Mortgage Calculators
+            <img class="dropdownIcon" style="height: 8px; width: 15px;" src="/images/common/icons/svg/arrowdown.svg" alt="">
+        </div>
+        <div class="topMenuDropdownContent hide">
+            <a href="/calculator/mortgage-calculator" class="topMenuDropdownItem">Payment Calculator</a>
+            <a href="/calculator/land-transfer-tax" class="topMenuDropdownItem">Land Transfer Tax Calculator</a>
+            <a href="/calculator/affordability" class="topMenuDropdownItem">Affordability Calculator</a>
+        </div>
+    </div>
+    <div class="headerMenuItem ">
+        <div style="margin: auto;">
+            <div class="headerMenuItemText">
+                Living Room Blog
+                <img class="dropdownIcon" style="height: 8px; width: 15px;" src="/images/common/icons/svg/arrowdown.svg" alt="">
+            </div>
+            <div class="topMenuDropdownContent hide">
+                <a href="/blog" class="topMenuDropdownItem">Home</a>
+                <a href="/blog/real-estate-101/page/1/1361" class="topMenuDropdownItem">Real Estate 101</a>
+                <a href="/blog/market-trends/page/1/1362" class="topMenuDropdownItem">Market Trends</a>
+                <a href="/blog/buying-or-selling/page/1/1363" class="topMenuDropdownItem">Buying or Selling</a>
+                <a href="/blog/real-stories/page/1/1364" class="topMenuDropdownItem">REAL Stories</a>
+                <a href="/blog/neighbourhood-guides/page/1/1365" class="topMenuDropdownItem">Neighbourhood Guides</a>
+                <a href="/blog/home-improvements-and-design/page/1/1367" class="topMenuDropdownItem">Home Improvements and Design</a>
+            </div>
+        </div>
+    </div>
+    
+    <div class="headerMenuItem">
+      
+        <a href="/my-saved-searches" id="lnkTopMenuSavedSearches" class="smallCountCircleCon headerMenuActionIcon">
+            <img src="/images/common/icons/svg/searches.svg" style="height: 30px;" alt="My Saved Searches">            
+            <div class="smallCountCircleRight" id="topMenuSavedSearchCountNum" style="display:none;">0</div>
+        </a>
+        <a href="/my-favourites" id="lnkTopMenuFavourites" class="smallCountCircleCon headerMenuActionIcon">
+            <img src="/images/common/icons/svg/heart.svg" style="height: 32px;" alt="My Favourites">
+            <div class="smallCountCircleRight" id="topMenuFavCountNum" style="display:none;">0</div>
+        </a>
+    </div>
+</div>
+
+
+<script>          
+    var TopMenu = new Controls.Desktop.TopMenu(null, 'ctl35');
+</script>
+
+</span>
+            <!-- Sticky buttons place holder -->
+            <div id="sticky_buttons"></div>
+
+
+            <!-- Gigya -->
+            
+            <script>
+                $(document).ready(function (e) {
+
+                    var s = document.createElement("script");
+                    s.type = "text/javascript";
+                    s.src = "//cdns.gigya.com/JS/gigya.js?apiKey=3_mrQiIl6ov44s2X3j6NGWVZ9SDDtplqV7WgdcyEpGYnYxl7ygDWPQHqQqtpSiUfko";
+                    s.innerHTML = '{ enabledProviders: "twitter,googleplus,linkedin,apple", lang: "en", bypassCookiePolicy: "always" }';
+                    s.onload = function (e) {
+                        gigyaAPIJSLoaded();
+                    };
+                    document.getElementsByTagName("head")[0].appendChild(s);
+
+                    //This part adds the youtube API iframe tag in order for GTM analytics to work on youtube videos
+                    //prior to this we had YoutubeWidgetapi.js bundled
+                    var tag = document.createElement('script');
+                    tag.id = 'iframe-api';
+                    tag.src = 'https://www.youtube.com/iframe_api';
+                    tag.setAttribute('defer', "");
+                    tag.setAttribute('async', "");
+                    var firstScriptTag = document.getElementsByTagName('script')[0];
+                    firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+                });
+            </script>
+            
+
+            <div id="BodyContenCon">
+                
+
+	    <script class="PagePreRenderScriptClass" id="PagePreRenderScriptBlock_956664">Events.Fire('PagePreRender','pages_desktop_realtorresults_ascx');</script><script>ApplicationState.CurrentRoutingRecordKey='realtor-search-results';</script><span id="MainContent_ctl00_ctl00" class="ControlBaseWrapper " style=""> 
+<style>
+    .realtorResultsHeaderCon {
+        padding: 15px 0 0 0;
+    }
+
+    #realtorResultsCon {
+        margin-bottom: 35px;
+    }
+
+    .hidden {
+        visibility: hidden;
+    }
+
+    #RealtorResultsBottomPaginationCon {
+        margin-bottom: 35px;
+    }
+
+    .realtorResultsInnerCon {
+        opacity: 1;
+        transition: 0.3s linear opacity;
+    }
+    /*.realtorResultsInnerCon.hidden {
+            opacity: 0;
+        }*/
+
+    .realtorResultsSortCon {
+        display: -webkit-box;
+        display: -moz-box;
+        display: -ms-flexbox;
+        display: -webkit-flex;
+        display: flex;
+        -webkit-justify-content: space-between;
+        -moz-justify-content: space-between;
+        -ms-justify-content: space-between;
+        justify-content: space-between;
+        -ms-flex-pack: space-between;
+        justify-content: space-between;
+        -webkit-align-items: center;
+        -moz-align-items: center;
+        -ms-align-items: center;
+        align-items: center;
+    }
+
+    #RealtorResultsTopLeftCon {
+        flex: 0 0 260px;
+        text-align: left;
+    }
+
+    #RealtorResultsTopRightCon {
+        flex: 0 0 260px;
+        text-align: right;
+    }
+
+    #RealtorResultsTopCenterCon {
+        text-align: center;
+        -webkit-box-flex: 1;
+        -ms-flex: 1 1 auto;
+        flex: 1 1 auto;
+    }       
+
+    .realtorSearchResultsTxt {
+        font-weight: bold;
+    }
+
+    #RealtorResultsBottomPaginationCon {
+        text-align: center;
+        margin: auto;
+    }
+
+    #realtorSearchResultsHeaderCon {
+        display: table;
+        width: 100%;
+        padding: 10px 0px 15px 0px;
+        box-sizing: border-box;
+    }
+
+    #lnkFirstRealtorResultsPage,
+    #lnkPreviousRealtorResultsPage,
+    #lnkNextRealtorResultsPage,
+    #lnkLastRealtorResultsPage {
+        font-size: 30px;
+        padding: 5px 15px;
+        vertical-align: middle;
+    }
+
+    #ddlResultsPages {
+        display: inline-block;
+        width: 85px;
+        margin: 0px 10px;
+    }
+
+    #realtorResultsOuterCon {
+        margin-bottom: 45px;
+        padding-top: 15px;
+    }
+</style>
+
+
+<div id="BreadcrumbsCon" style="margin: 10px 15px -10px 0px;" class="noPrint">
+    <span id="ctrlBreadcrumbs" class="ControlBaseWrapper " style=""> 
+<style>
+    .breadcrumbSep {
+        display: inline-block;
+        color: #cdcdcd;
+    }
+
+    .breadcrumbLink {
+        font-size: .85rem;
+        text-decoration: none;
+    }
+</style>
+<script type="application/ld+json">
+                                {
+                                    "@context": "https://schema.org",
+                                    "@type": "BreadcrumbList",
+                                    "itemListElement": [
+                                        {
+                                        "@type": "ListItem",
+                                        "position": 1,
+                                        "name": "
+    Find a REALTOR&amp;reg;",
+                                        "item": "https://www.realtor.ca/realtors/location"
+                                    }
+                                    ]
+                                }</script>
+
+
+<a class="breadcrumbLink" title="Home" href="https://www.realtor.ca/en">
+    Home
+    
+</a>
+
+<div class="breadcrumbSep">/</div> 
+
+<a class="breadcrumbLink" title="
+    Find a REALTOR®" href="https://www.realtor.ca/realtors/location">
+    
+    Find a REALTOR<sup>®</sup>
+    
+</a>
+
+
+</span>
+</div>
+
+
+<div id="realtorResultsOuterCon">
+    <div class="realtorResultsHeaderCon" style="display: none;">
+        <div id="realtorResultsBackBtnCon"></div>
+    </div>
+
+
+    <div style="text-align: center;"><h1 style="margin: 5px 10px 5px 10px;">REALTOR® Search Results</h1></div>
+    
+
+    <div class="realtorResultsInnerCon">
+        <div id="realtorSearchResultsHeaderCon">
+            <div class="realtorResultsSortCon">
+                <div id="realtorResultsTopLeftCon">
+                    <div id="realtorSearchResultsSort" class="">
+                        <div style="margin-right: 10px; display: inline-block;">Sort By</div>
+                        <select name="ctl00$MainContent$ctl00$ctl00$ddlRealtorSort$ctl00" class="RealtorSearchSort select2-hidden-accessible" data-hashkey="sort" data-hash-writeonly="true" id="ddlRealtorSort" tabindex="-1" aria-hidden="true">
+	<option value="11-A">No Preference</option>
+	<option value="3-A">Last Name: A to Z</option>
+	<option value="3-D">Last Name: Z to A</option>
+	<option value="2-A">First Name: A to Z</option>
+	<option value="2-D">First Name: Z to A</option>
+	<option value="8-A">City: A to Z</option>
+	<option value="8-D">City: Z to A</option>
+	<option value="9-A">Province: A to Z</option>
+	<option value="9-D">Province: Z to A</option>
+
+</select><span class="select2 select2-container select2-container--default" dir="ltr" style="width: 200px;"><span class="selection"><span class="select2-selection select2-selection--single homeFilter" role="combobox" aria-label="Search Field" aria-haspopup="true" aria-expanded="false" tabindex="0" aria-labelledby="select2-ddlRealtorSort-container"><span class="select2-selection__rendered" id="select2-ddlRealtorSort-container" title="No Preference">No Preference</span><span class="select2-selection__arrow" role="presentation"><b role="presentation"></b></span></span></span><span class="dropdown-wrapper" aria-hidden="true"></span></span>
+                    </div>
+                </div>
+                <div id="RealtorResultsTopCenterCon">
+                    <div id="realtorSearchResultsLabel" class=""><span class="realtorSearchResultsTxt">Results:</span>&nbsp;<span class="realtorResultsStartNum">1</span> - <span class="realtorResultsEndNum">20</span>&nbsp;of&nbsp;<span class="realtorResultsTotalResultsNum">169,287</span> REALTORS<sup>®</sup></div>
+
+                </div>
+                <div id="RealtorResultsTopRightCon">
+                    <a id="btnModifySearch" href="#" class="btnHeader btn right">
+                        <img src="/images/common/icons/svg/search-blue.svg" style="height: 20px; width: 20px; vertical-align: middle;" alt="">Modify</a>
+
+                </div>
+            </div>
+        </div>
+
+        <div id="realtorResultsCon" class="loadingIn"><span id="RealtorResults" class="ControlBaseWrapper " style=""> 
+
+
+<form method="post" action="../ControlFetcher.asmx" id="ctl01">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="lVZTqoEcBpma40WDp1NZinFeSSWgzKk5sPQyyDzDuBsIgQXP7vWBGW8lk7TmNGVHKP+rjQ==">
+</div>
+
+    <div id="RealtorsResultsCon">
+
+        <div id="realtorSearchResultsCardsCon">
+            
+                    <div class="realtorSearchResultCardCon">
+                        <span id="realtorCard" class="ControlBaseWrapper " style=""> 
+
+
+
+
+
+
+<div class="realtorCardCon card " id="RealtorCard-2098756" data-binding="id=RealtorCard-{IndividualId}">
+    <div class="realtorCardBody">
+        <div class="realtorCardTop">
+            <div class="realtorCardInnerTop">
+                
+                    <div class="realtorCardTopCenter ">
+                        
+                        <a href="/agent/2098756/karen-delcourt-555-legget-drive-kanata-ontario-k2k2x3" data-binding="href=DetailsURL" class="realtorCardDetailsLink realtorDetailsLink">
+                            
+
+                            <div class="">
+                                <span data-binding="visible=ShowRealtorName">
+                                    <span class="realtorCardName" data-binding="innertext=RealtorName">Karen Delcourt</span>
+                                    
+                                    <span class="realtorCardEducation" data-binding="innertext=RealtorEducationalCredentials"></span>
+                                </span>
+                            </div>
+
+                            
+
+                            <div class="realtorCardTitle" data-binding="innertext=RealtorPosition">
+                                Salesperson
+                            </div>
+
+                            
+
+                            <div class="realtorCardAddress" data-binding="visible=ShowRealtorAddress,innertext=Address">
+                                
+                            </div>
+
+
+                            
+                            <div class="realtorCardOfficeInfo" data-binding="visible=ShowOfficeInfo">
+                                
+                                <img class="realtorCardOfficeLogo" data-binding="src=OfficeLogoImageURL,visible=ShowOfficeLogo,alt=OfficeAltText" src="https://cdn.realtor.ca/organization/en-CA/TS637792206000000000/lowres/default/royallepage.gif" alt="ROYAL LEPAGE TEAM REALTY logo">
+                                
+                                <div class="realtorCardOfficeName" data-binding="innertext=OfficeName">
+                                    ROYAL LEPAGE TEAM REALTY
+                                </div>
+                                <div class="realtorCardOfficeDesignation" data-binding="innertext=OfficeDesignationName">
+                                    
+                                </div>
+                                <div class="realtorCardOfficeAddress" data-binding="innertext=OfficeAddress">
+                                    555 LEGGET DRIVE, KANATA, Ontario K2K2X3
+                                    
+                                </div>
+                            </div>
+                            
+                        </a>
+                        
+                    </div>
+
+                    <div class="realtorCardTopRight ">
+                                    
+
+                        
+                    </div>
+                  
+            </div>
+        </div>
+        <div class="realtorCardBottom">
+            <div class="realtorCardInnerBottom">
+                <div class="realtorCardBottomLeft">
+
+                    
+                            <div class="realtorCardPhone" data-type="Telephone"><span class="realtorCardContactIcon"><i class="fa fa-phone"></i></span><span class="realtorCardContactNumber TelephoneNumber">613-839-0986</span></div>
+                        
+
+                    
+
+                            <a href="http://www.teamrealty.ca" rel="noopener noreferrer" target="_blank" class="realtorCardWebsite noPrint"><i class="fa fa-external-link realtorCardContactIcon"></i><span class="realtorCardContactNumber">REALTOR<sup>®</sup> Website</span></a>
+
+                        
+
+                    
+                </div>
+                <div class="realtorCardBottomRight">
+
+                    
+                    <div class="realtorCardSocialIcons" data-binding="SocialIcons,visible=ShowSocialIcons">
+
+                        
+
+                    </div>
+                    
+                    <a href="#" class="lnkEmailRealtor blueRoundedBtn btn" data-binding="visible=ShowEmailButton"><span class="fa fa-envelope"></span><span class="realtorCardFooterLinkText">Email</span></a>
+                    
+                </div>
+            </div>
+        </div>
+        
+    </div>
+</div>
+
+
+
+
+
+<script>
+    var obj = new PublicContracts.IndividualBasicDetails();
+    obj.IndividualID = '2098756';
+    obj.Organization = new PublicContracts.OrganizationBasicDetails();
+    obj.Organization.OrganizationID = '49860';
+    var model = new RealtorCardModel(obj, '', '', ''); //TODO - handle JS binding
+    var carousel = new Controls.Desktop.RealtorCard(model, 'realtorCard');
+
+</script>
+</span>
+                    </div>
+                
+                    <div class="realtorSearchResultCardCon">
+                        <span id="realtorCard" class="ControlBaseWrapper " style=""> 
+
+
+
+
+
+
+<div class="realtorCardCon card " id="RealtorCard-1982551" data-binding="id=RealtorCard-{IndividualId}">
+    <div class="realtorCardBody">
+        <div class="realtorCardTop">
+            <div class="realtorCardInnerTop">
+                
+                <div class="realtorCardTopLeft realtorCardImageCon" data-binding="visible=ShowRealtorImage">
+
+                    
+                    <a href="/agent/1982551/vj-oco-135---19664-64-avenue-langley-british-columbia-v2y3j6" data-binding="href=DetailsURL" class="realtorDetailsLink">
+                        
+
+                        <img class="realtorCardImage" src="https://cdn.realtor.ca/individual/TS636593071200000000/lowres/1267628.jpg" data-binding="src=RealtorImageURL,alt=RealtorAltText,title=RealtorName" alt="VJ Oco photo" title="VJ Oco">
+                        
+                    </a>
+                    
+                </div>
+                <div id="realtorCardWrapDetails"> 
+                    <div class="realtorCardTopCenter realtorCardWrapTopCenter">
+                        
+                        <a href="/agent/1982551/vj-oco-135---19664-64-avenue-langley-british-columbia-v2y3j6" data-binding="href=DetailsURL" class="realtorCardDetailsLink realtorDetailsLink">
+                            
+
+                            <div class="">
+                                <span data-binding="visible=ShowRealtorName">
+                                    <span class="realtorCardName" data-binding="innertext=RealtorName">VJ Oco</span>
+                                    
+                                    <span class="realtorCardEducation" data-binding="innertext=RealtorEducationalCredentials"></span>
+                                </span>
+                            </div>
+
+                            
+
+                            <div class="realtorCardTitle" data-binding="innertext=RealtorPosition">
+                                Personal Real Estate Corporation
+                            </div>
+
+                            
+
+                            <div class="realtorCardAddress" data-binding="visible=ShowRealtorAddress,innertext=Address">
+                                
+                            </div>
+
+
+                            
+                            <div class="realtorCardOfficeInfo" data-binding="visible=ShowOfficeInfo">
+                                
+                                <img class="realtorCardOfficeLogo" data-binding="src=OfficeLogoImageURL,visible=ShowOfficeLogo,alt=OfficeAltText" src="https://cdn.realtor.ca/organization/en-CA/TS637739667000000000/lowres/default/royallepage.gif" alt="Royal LePage - Wolstencroft logo">
+                                
+                                <div class="realtorCardOfficeName" data-binding="innertext=OfficeName">
+                                    Royal LePage - Wolstencroft
+                                </div>
+                                <div class="realtorCardOfficeDesignation" data-binding="innertext=OfficeDesignationName">
+                                    
+                                </div>
+                                <div class="realtorCardOfficeAddress" data-binding="innertext=OfficeAddress">
+                                    135 - 19664 64 Avenue, Langley, British Columbia V2Y3J6
+                                    
+                                </div>
+                            </div>
+                            
+                        </a>
+                        
+                    </div>
+
+                    <div class="realtorCardTopRight realtorCardWrapTopRight">
+                                    
+
+                        
+                    </div>
+                  </div>
+            </div>
+        </div>
+        <div class="realtorCardBottom">
+            <div class="realtorCardInnerBottom">
+                <div class="realtorCardBottomLeft">
+
+                    
+
+                    
+
+                            <a href="http://www.royallepagelangley.ca/" rel="noopener noreferrer" target="_blank" class="realtorCardWebsite noPrint"><i class="fa fa-external-link realtorCardContactIcon"></i><span class="realtorCardContactNumber">REALTOR<sup>®</sup> Website</span></a>
+
+                        
+
+                    
+                </div>
+                <div class="realtorCardBottomRight">
+
+                    
+                    <div class="realtorCardSocialIcons" data-binding="SocialIcons,visible=ShowSocialIcons">
+
+                        
+
+                    </div>
+                    
+                    <a href="#" class="lnkEmailRealtor blueRoundedBtn btn" data-binding="visible=ShowEmailButton"><span class="fa fa-envelope"></span><span class="realtorCardFooterLinkText">Email</span></a>
+                    
+                </div>
+            </div>
+        </div>
+        
+    </div>
+</div>
+
+
+
+
+
+<script>
+    var obj = new PublicContracts.IndividualBasicDetails();
+    obj.IndividualID = '1982551';
+    obj.Organization = new PublicContracts.OrganizationBasicDetails();
+    obj.Organization.OrganizationID = '45975';
+    var model = new RealtorCardModel(obj, '', '', ''); //TODO - handle JS binding
+    var carousel = new Controls.Desktop.RealtorCard(model, 'realtorCard');
+
+</script>
+</span>
+                    </div>
+                
+                    <div class="realtorSearchResultCardCon">
+                        <span id="realtorCard" class="ControlBaseWrapper " style=""> 
+
+
+
+
+
+
+<div class="realtorCardCon card " id="RealtorCard-2168668" data-binding="id=RealtorCard-{IndividualId}">
+    <div class="realtorCardBody">
+        <div class="realtorCardTop">
+            <div class="realtorCardInnerTop">
+                
+                    <div class="realtorCardTopCenter ">
+                        
+                        <a href="/agent/2168668/gagandeep-sharma-1100---1631-dickson-ave-kelowna-british-columbia-v1y0b5" data-binding="href=DetailsURL" class="realtorCardDetailsLink realtorDetailsLink">
+                            
+
+                            <div class="">
+                                <span data-binding="visible=ShowRealtorName">
+                                    <span class="realtorCardName" data-binding="innertext=RealtorName">Gagandeep Sharma</span>
+                                    
+                                    <span class="realtorCardEducation" data-binding="innertext=RealtorEducationalCredentials"></span>
+                                </span>
+                            </div>
+
+                            
+
+                            <div class="realtorCardTitle" data-binding="innertext=RealtorPosition">
+                                
+                            </div>
+
+                            
+
+                            <div class="realtorCardAddress" data-binding="visible=ShowRealtorAddress,innertext=Address">
+                                
+                            </div>
+
+
+                            
+                            <div class="realtorCardOfficeInfo" data-binding="visible=ShowOfficeInfo">
+                                
+                                <img class="realtorCardOfficeLogo" data-binding="src=OfficeLogoImageURL,visible=ShowOfficeLogo,alt=OfficeAltText" src="https://cdn.realtor.ca/organization/en-CA/TS637915168800000000/lowres/1332248.jpg" alt="Zolo Realty logo">
+                                
+                                <div class="realtorCardOfficeName" data-binding="innertext=OfficeName">
+                                    Zolo Realty
+                                </div>
+                                <div class="realtorCardOfficeDesignation" data-binding="innertext=OfficeDesignationName">
+                                    
+                                </div>
+                                <div class="realtorCardOfficeAddress" data-binding="innertext=OfficeAddress">
+                                    #1100 - 1631 Dickson Ave, Kelowna, British Columbia V1Y0B5
+                                    
+                                </div>
+                            </div>
+                            
+                        </a>
+                        
+                    </div>
+
+                    <div class="realtorCardTopRight ">
+                                    
+
+                        
+                    </div>
+                  
+            </div>
+        </div>
+        <div class="realtorCardBottom">
+            <div class="realtorCardInnerBottom">
+                <div class="realtorCardBottomLeft">
+
+                    
+                            <div class="realtorCardPhone" data-type="Telephone"><span class="realtorCardContactIcon"><i class="fa fa-phone"></i></span><span class="realtorCardContactNumber TelephoneNumber">647-739-7714</span></div>
+                        
+
+                    
+
+                    
+                </div>
+                <div class="realtorCardBottomRight">
+
+                    
+                    <div class="realtorCardSocialIcons" data-binding="SocialIcons,visible=ShowSocialIcons">
+
+                        
+
+                    </div>
+                    
+                    <a href="#" class="lnkEmailRealtor blueRoundedBtn btn" data-binding="visible=ShowEmailButton"><span class="fa fa-envelope"></span><span class="realtorCardFooterLinkText">Email</span></a>
+                    
+                </div>
+            </div>
+        </div>
+        
+    </div>
+</div>
+
+
+
+
+
+<script>
+    var obj = new PublicContracts.IndividualBasicDetails();
+    obj.IndividualID = '2168668';
+    obj.Organization = new PublicContracts.OrganizationBasicDetails();
+    obj.Organization.OrganizationID = '283608';
+    var model = new RealtorCardModel(obj, '', '', ''); //TODO - handle JS binding
+    var carousel = new Controls.Desktop.RealtorCard(model, 'realtorCard');
+
+</script>
+</span>
+                    </div>
+                
+                    <div class="realtorSearchResultCardCon">
+                        <span id="realtorCard" class="ControlBaseWrapper " style=""> 
+
+
+
+
+
+
+<div class="realtorCardCon card " id="RealtorCard-2095671" data-binding="id=RealtorCard-{IndividualId}">
+    <div class="realtorCardBody">
+        <div class="realtorCardTop">
+            <div class="realtorCardInnerTop">
+                
+                <div class="realtorCardTopLeft realtorCardImageCon" data-binding="visible=ShowRealtorImage">
+
+                    
+                    <a href="/agent/2095671/jamie-kuntz-785-notre-dame-st-po-box-1345-embrun-ontario-k0a1w0" data-binding="href=DetailsURL" class="realtorDetailsLink">
+                        
+
+                        <img class="realtorCardImage" src="https://cdn.realtor.ca/individual/TS637742199000000000/lowres/1367816.jpg" data-binding="src=RealtorImageURL,alt=RealtorAltText,title=RealtorName" alt="Jamie Kuntz photo" title="Jamie Kuntz">
+                        
+                    </a>
+                    
+                </div>
+                <div id="realtorCardWrapDetails"> 
+                    <div class="realtorCardTopCenter realtorCardWrapTopCenter">
+                        
+                        <a href="/agent/2095671/jamie-kuntz-785-notre-dame-st-po-box-1345-embrun-ontario-k0a1w0" data-binding="href=DetailsURL" class="realtorCardDetailsLink realtorDetailsLink">
+                            
+
+                            <div class="">
+                                <span data-binding="visible=ShowRealtorName">
+                                    <span class="realtorCardName" data-binding="innertext=RealtorName">Jamie Kuntz</span>
+                                    
+                                    <span class="realtorCardEducation" data-binding="innertext=RealtorEducationalCredentials"></span>
+                                </span>
+                            </div>
+
+                            
+
+                            <div class="realtorCardTitle" data-binding="innertext=RealtorPosition">
+                                Salesperson
+                            </div>
+
+                            
+
+                            <div class="realtorCardAddress" data-binding="visible=ShowRealtorAddress,innertext=Address">
+                                
+                            </div>
+
+
+                            
+                            <div class="realtorCardOfficeInfo" data-binding="visible=ShowOfficeInfo">
+                                
+                                <div class="realtorCardOfficeName" data-binding="innertext=OfficeName">
+                                    EXIT REALTY MATRIX
+                                </div>
+                                <div class="realtorCardOfficeDesignation" data-binding="innertext=OfficeDesignationName">
+                                    
+                                </div>
+                                <div class="realtorCardOfficeAddress" data-binding="innertext=OfficeAddress">
+                                    785 NOTRE DAME ST, PO BOX 1345, EMBRUN, Ontario K0A1W0
+                                    
+                                </div>
+                            </div>
+                            
+                        </a>
+                        
+                    </div>
+
+                    <div class="realtorCardTopRight realtorCardWrapTopRight">
+                                    
+
+                        
+                    </div>
+                  </div>
+            </div>
+        </div>
+        <div class="realtorCardBottom">
+            <div class="realtorCardInnerBottom">
+                <div class="realtorCardBottomLeft">
+
+                    
+                            <div class="realtorCardPhone" data-type="Telephone"><span class="realtorCardContactIcon"><i class="fa fa-phone"></i></span><span class="realtorCardContactNumber TelephoneNumber">613-790-5263</span></div>
+                        
+
+                    
+
+                            <a href="http://www.jamiekuntz.com" rel="noopener noreferrer" target="_blank" class="realtorCardWebsite noPrint"><i class="fa fa-external-link realtorCardContactIcon"></i><span class="realtorCardContactNumber">REALTOR<sup>®</sup> Website</span></a>
+
+                        
+
+                    
+                </div>
+                <div class="realtorCardBottomRight">
+
+                    
+                    <div class="realtorCardSocialIcons" data-binding="SocialIcons,visible=ShowSocialIcons">
+
+                        
+
+                    </div>
+                    
+                    <a href="#" class="lnkEmailRealtor blueRoundedBtn btn" data-binding="visible=ShowEmailButton"><span class="fa fa-envelope"></span><span class="realtorCardFooterLinkText">Email</span></a>
+                    
+                </div>
+            </div>
+        </div>
+        
+    </div>
+</div>
+
+
+
+
+
+<script>
+    var obj = new PublicContracts.IndividualBasicDetails();
+    obj.IndividualID = '2095671';
+    obj.Organization = new PublicContracts.OrganizationBasicDetails();
+    obj.Organization.OrganizationID = '87911';
+    var model = new RealtorCardModel(obj, '', '', ''); //TODO - handle JS binding
+    var carousel = new Controls.Desktop.RealtorCard(model, 'realtorCard');
+
+</script>
+</span>
+                    </div>
+                
+                    <div class="realtorSearchResultCardCon">
+                        <span id="realtorCard" class="ControlBaseWrapper " style=""> 
+
+
+
+
+
+
+<div class="realtorCardCon card " id="RealtorCard-2150552" data-binding="id=RealtorCard-{IndividualId}">
+    <div class="realtorCardBody">
+        <div class="realtorCardTop">
+            <div class="realtorCardInnerTop">
+                
+                    <div class="realtorCardTopCenter ">
+                        
+                        <a href="/agent/2150552/jenany-vinasethambi-5200-yonge-st-200-toronto-ontario-m2n5p6" data-binding="href=DetailsURL" class="realtorCardDetailsLink realtorDetailsLink">
+                            
+
+                            <div class="">
+                                <span data-binding="visible=ShowRealtorName">
+                                    <span class="realtorCardName" data-binding="innertext=RealtorName">JENANY VINASETHAMBI</span>
+                                    
+                                    <span class="realtorCardEducation" data-binding="innertext=RealtorEducationalCredentials"></span>
+                                </span>
+                            </div>
+
+                            
+
+                            <div class="realtorCardTitle" data-binding="innertext=RealtorPosition">
+                                Salesperson
+                            </div>
+
+                            
+
+                            <div class="realtorCardAddress" data-binding="visible=ShowRealtorAddress,innertext=Address">
+                                
+                            </div>
+
+
+                            
+                            <div class="realtorCardOfficeInfo" data-binding="visible=ShowOfficeInfo">
+                                
+                                <img class="realtorCardOfficeLogo" data-binding="src=OfficeLogoImageURL,visible=ShowOfficeLogo,alt=OfficeAltText" src="https://cdn.realtor.ca/organization/en-CA/TS637576261200000000/lowres/270960.jpg" alt="ZOLO REALTY logo">
+                                
+                                <div class="realtorCardOfficeName" data-binding="innertext=OfficeName">
+                                    ZOLO REALTY
+                                </div>
+                                <div class="realtorCardOfficeDesignation" data-binding="innertext=OfficeDesignationName">
+                                    Brokerage
+                                </div>
+                                <div class="realtorCardOfficeAddress" data-binding="innertext=OfficeAddress">
+                                    5200 YONGE ST #200, TORONTO, Ontario M2N5P6
+                                    
+                                </div>
+                            </div>
+                            
+                        </a>
+                        
+                    </div>
+
+                    <div class="realtorCardTopRight ">
+                                    
+
+                        
+                    </div>
+                  
+            </div>
+        </div>
+        <div class="realtorCardBottom">
+            <div class="realtorCardInnerBottom">
+                <div class="realtorCardBottomLeft">
+
+                    
+                            <div class="realtorCardPhone" data-type="Telephone"><span class="realtorCardContactIcon"><i class="fa fa-phone"></i></span><span class="realtorCardContactNumber TelephoneNumber">416-898-8932</span></div>
+                        
+
+                    
+
+                    
+                </div>
+                <div class="realtorCardBottomRight">
+
+                    
+                    <div class="realtorCardSocialIcons" data-binding="SocialIcons,visible=ShowSocialIcons">
+
+                        
+
+                    </div>
+                    
+                    <a href="#" class="lnkEmailRealtor blueRoundedBtn btn" data-binding="visible=ShowEmailButton"><span class="fa fa-envelope"></span><span class="realtorCardFooterLinkText">Email</span></a>
+                    
+                </div>
+            </div>
+        </div>
+        
+    </div>
+</div>
+
+
+
+
+
+<script>
+    var obj = new PublicContracts.IndividualBasicDetails();
+    obj.IndividualID = '2150552';
+    obj.Organization = new PublicContracts.OrganizationBasicDetails();
+    obj.Organization.OrganizationID = '270960';
+    var model = new RealtorCardModel(obj, '', '', ''); //TODO - handle JS binding
+    var carousel = new Controls.Desktop.RealtorCard(model, 'realtorCard');
+
+</script>
+</span>
+                    </div>
+                
+                    <div class="realtorSearchResultCardCon">
+                        <span id="realtorCard" class="ControlBaseWrapper " style=""> 
+
+
+
+
+
+
+<div class="realtorCardCon card " id="RealtorCard-1584805" data-binding="id=RealtorCard-{IndividualId}">
+    <div class="realtorCardBody">
+        <div class="realtorCardTop">
+            <div class="realtorCardInnerTop">
+                
+                <div class="realtorCardTopLeft realtorCardImageCon" data-binding="visible=ShowRealtorImage">
+
+                    
+                    <a href="/agent/1584805/emilie-lafond-201---3550-rue-rachel-e--montréal-quebec-h1w1a7" data-binding="href=DetailsURL" class="realtorDetailsLink">
+                        
+
+                        <img class="realtorCardImage" src="https://cdn.realtor.ca/individual/TS637569399000000000/lowres/1152384.jpg" data-binding="src=RealtorImageURL,alt=RealtorAltText,title=RealtorName" alt="Emilie Lafond photo" title="Emilie Lafond">
+                        
+                    </a>
+                    
+                </div>
+                <div id="realtorCardWrapDetails"> 
+                    <div class="realtorCardTopCenter realtorCardWrapTopCenter">
+                        
+                        <a href="/agent/1584805/emilie-lafond-201---3550-rue-rachel-e--montréal-quebec-h1w1a7" data-binding="href=DetailsURL" class="realtorCardDetailsLink realtorDetailsLink">
+                            
+
+                            <div class="">
+                                <span data-binding="visible=ShowRealtorName">
+                                    <span class="realtorCardName" data-binding="innertext=RealtorName">Emilie Lafond</span>
+                                    
+                                    <span class="realtorCardEducation" data-binding="innertext=RealtorEducationalCredentials"></span>
+                                </span>
+                            </div>
+
+                            
+
+                            <div class="realtorCardTitle" data-binding="innertext=RealtorPosition">
+                                Residential and Commercial Real Estate Broker
+                            </div>
+
+                            
+
+                            <div class="realtorCardAddress" data-binding="visible=ShowRealtorAddress,innertext=Address">
+                                
+                            </div>
+
+
+                            
+                            <div class="realtorCardOfficeInfo" data-binding="visible=ShowOfficeInfo">
+                                
+                                <img class="realtorCardOfficeLogo" data-binding="src=OfficeLogoImageURL,visible=ShowOfficeLogo,alt=OfficeAltText" src="https://cdn.realtor.ca/organization/en-CA/TS637983343800000000/lowres/1007950.jpg" alt="RE/MAX HARMONIE INC. logo">
+                                
+                                <div class="realtorCardOfficeName" data-binding="innertext=OfficeName">
+                                    RE/MAX HARMONIE INC.
+                                </div>
+                                <div class="realtorCardOfficeDesignation" data-binding="innertext=OfficeDesignationName">
+                                    Real Estate Agency
+                                </div>
+                                <div class="realtorCardOfficeAddress" data-binding="innertext=OfficeAddress">
+                                    201 - 3550 rue Rachel E. , Montréal, Quebec H1W1A7
+                                    
+                                </div>
+                            </div>
+                            
+                        </a>
+                        
+                    </div>
+
+                    <div class="realtorCardTopRight realtorCardWrapTopRight">
+                                    
+
+                        
+                    </div>
+                  </div>
+            </div>
+        </div>
+        <div class="realtorCardBottom">
+            <div class="realtorCardInnerBottom">
+                <div class="realtorCardBottomLeft">
+
+                    
+                            <div class="realtorCardPhone" data-type="Telephone"><span class="realtorCardContactIcon"><i class="fa fa-phone"></i></span><span class="realtorCardContactNumber TelephoneNumber">514-259-8884</span></div>
+                        
+
+                    
+
+                    
+                </div>
+                <div class="realtorCardBottomRight">
+
+                    
+                    <div class="realtorCardSocialIcons" data-binding="SocialIcons,visible=ShowSocialIcons">
+
+                        
+
+                    </div>
+                    
+                    <a href="#" class="lnkEmailRealtor blueRoundedBtn btn" data-binding="visible=ShowEmailButton"><span class="fa fa-envelope"></span><span class="realtorCardFooterLinkText">Email</span></a>
+                    
+                </div>
+            </div>
+        </div>
+        
+    </div>
+</div>
+
+
+
+
+
+<script>
+    var obj = new PublicContracts.IndividualBasicDetails();
+    obj.IndividualID = '1584805';
+    obj.Organization = new PublicContracts.OrganizationBasicDetails();
+    obj.Organization.OrganizationID = '54177';
+    var model = new RealtorCardModel(obj, '', '', ''); //TODO - handle JS binding
+    var carousel = new Controls.Desktop.RealtorCard(model, 'realtorCard');
+
+</script>
+</span>
+                    </div>
+                
+                    <div class="realtorSearchResultCardCon">
+                        <span id="realtorCard" class="ControlBaseWrapper " style=""> 
+
+
+
+
+
+
+<div class="realtorCardCon card " id="RealtorCard-1480371" data-binding="id=RealtorCard-{IndividualId}">
+    <div class="realtorCardBody">
+        <div class="realtorCardTop">
+            <div class="realtorCardInnerTop">
+                
+                    <div class="realtorCardTopCenter ">
+                        
+                        <a href="/agent/1480371/michael-andrew-5560-windermere-blvd-sw-edmonton-alberta-t6w2z8" data-binding="href=DetailsURL" class="realtorCardDetailsLink realtorDetailsLink">
+                            
+
+                            <div class="">
+                                <span data-binding="visible=ShowRealtorName">
+                                    <span class="realtorCardName" data-binding="innertext=RealtorName">Michael T. Andrew</span>
+                                    
+                                    <span class="realtorCardEducation" data-binding="innertext=RealtorEducationalCredentials"></span>
+                                </span>
+                            </div>
+
+                            
+
+                            <div class="realtorCardTitle" data-binding="innertext=RealtorPosition">
+                                Associate
+                            </div>
+
+                            
+
+                            <div class="realtorCardAddress" data-binding="visible=ShowRealtorAddress,innertext=Address">
+                                
+                            </div>
+
+
+                            
+                            <div class="realtorCardOfficeInfo" data-binding="visible=ShowOfficeInfo">
+                                
+                                <img class="realtorCardOfficeLogo" data-binding="src=OfficeLogoImageURL,visible=ShowOfficeLogo,alt=OfficeAltText" src="https://cdn.realtor.ca/organization/en-CA/TS638072403600000000/lowres/1264963.jpg" alt="MaxWell Progressive logo">
+                                
+                                <div class="realtorCardOfficeName" data-binding="innertext=OfficeName">
+                                    MaxWell Progressive
+                                </div>
+                                <div class="realtorCardOfficeDesignation" data-binding="innertext=OfficeDesignationName">
+                                    
+                                </div>
+                                <div class="realtorCardOfficeAddress" data-binding="innertext=OfficeAddress">
+                                    5560 Windermere Blvd SW, Edmonton, Alberta T6W2Z8
+                                    
+                                </div>
+                            </div>
+                            
+                        </a>
+                        
+                    </div>
+
+                    <div class="realtorCardTopRight ">
+                                    
+
+                        
+                    </div>
+                  
+            </div>
+        </div>
+        <div class="realtorCardBottom">
+            <div class="realtorCardInnerBottom">
+                <div class="realtorCardBottomLeft">
+
+                    
+                            <div class="realtorCardPhone" data-type="Telephone"><span class="realtorCardContactIcon"><i class="fa fa-phone"></i></span><span class="realtorCardContactNumber TelephoneNumber">780-235-5979</span></div>
+                        
+
+                    
+
+                            <a href="http://www.michaelandrewrealty.ca/" rel="noopener noreferrer" target="_blank" class="realtorCardWebsite noPrint"><i class="fa fa-external-link realtorCardContactIcon"></i><span class="realtorCardContactNumber">REALTOR<sup>®</sup> Website</span></a>
+
+                        
+
+                    
+                </div>
+                <div class="realtorCardBottomRight">
+
+                    
+                    <div class="realtorCardSocialIcons" data-binding="SocialIcons,visible=ShowSocialIcons">
+
+                        
+                                <a href="http://fb.me/MichaelandrewRealtor" data-binding="href=LinkURL" rel="noopener noreferrer" target="_blank" class="FacebookSocialLink">
+                                    <img class="realtorCardSocialIcon btn" src="/images/common/icons/svg/facebook.svg" data-binding="src=ImageURL"></a>
+                            
+                                <a href="https://ca.linkedin.com/in/michaelandrew1" data-binding="href=LinkURL" rel="noopener noreferrer" target="_blank" class="LinkedInSocialLink">
+                                    <img class="realtorCardSocialIcon btn" src="/images/common/icons/svg/linkedin.svg" data-binding="src=ImageURL"></a>
+                            
+
+                    </div>
+                    
+                    <a href="#" class="lnkEmailRealtor blueRoundedBtn btn" data-binding="visible=ShowEmailButton"><span class="fa fa-envelope"></span><span class="realtorCardFooterLinkText">Email</span></a>
+                    
+                </div>
+            </div>
+        </div>
+        
+    </div>
+</div>
+
+
+
+
+
+<script>
+    var obj = new PublicContracts.IndividualBasicDetails();
+    obj.IndividualID = '1480371';
+    obj.Organization = new PublicContracts.OrganizationBasicDetails();
+    obj.Organization.OrganizationID = '275423';
+    var model = new RealtorCardModel(obj, '', '', ''); //TODO - handle JS binding
+    var carousel = new Controls.Desktop.RealtorCard(model, 'realtorCard');
+
+</script>
+</span>
+                    </div>
+                
+                    <div class="realtorSearchResultCardCon">
+                        <span id="realtorCard" class="ControlBaseWrapper " style=""> 
+
+
+
+
+
+
+<div class="realtorCardCon card " id="RealtorCard-1950737" data-binding="id=RealtorCard-{IndividualId}">
+    <div class="realtorCardBody">
+        <div class="realtorCardTop">
+            <div class="realtorCardInnerTop">
+                
+                    <div class="realtorCardTopCenter ">
+                        
+                        <a href="/agent/1950737/jeffrey-lawrence-shiff-1206-centre-street-thornhill-ontario-l4j3m9" data-binding="href=DetailsURL" class="realtorCardDetailsLink realtorDetailsLink">
+                            
+
+                            <div class="">
+                                <span data-binding="visible=ShowRealtorName">
+                                    <span class="realtorCardName" data-binding="innertext=RealtorName">JEFFREY LAWRENCE SHIFF</span>
+                                    
+                                    <span class="realtorCardEducation" data-binding="innertext=RealtorEducationalCredentials"></span>
+                                </span>
+                            </div>
+
+                            
+
+                            <div class="realtorCardTitle" data-binding="innertext=RealtorPosition">
+                                Salesperson
+                            </div>
+
+                            
+
+                            <div class="realtorCardAddress" data-binding="visible=ShowRealtorAddress,innertext=Address">
+                                
+                            </div>
+
+
+                            
+                            <div class="realtorCardOfficeInfo" data-binding="visible=ShowOfficeInfo">
+                                
+                                <div class="realtorCardOfficeName" data-binding="innertext=OfficeName">
+                                    SUTTON GROUP-ADMIRAL REALTY INC.
+                                </div>
+                                <div class="realtorCardOfficeDesignation" data-binding="innertext=OfficeDesignationName">
+                                    Brokerage
+                                </div>
+                                <div class="realtorCardOfficeAddress" data-binding="innertext=OfficeAddress">
+                                    1206 CENTRE STREET, THORNHILL, Ontario L4J3M9
+                                    
+                                </div>
+                            </div>
+                            
+                        </a>
+                        
+                    </div>
+
+                    <div class="realtorCardTopRight ">
+                                    
+
+                        
+                    </div>
+                  
+            </div>
+        </div>
+        <div class="realtorCardBottom">
+            <div class="realtorCardInnerBottom">
+                <div class="realtorCardBottomLeft">
+
+                    
+                            <div class="realtorCardPhone" data-type="Telephone"><span class="realtorCardContactIcon"><i class="fa fa-phone"></i></span><span class="realtorCardContactNumber TelephoneNumber">416-990-9190</span></div>
+                        
+
+                    
+
+                            <a href="http://www.jeffreyshiff.ca" rel="noopener noreferrer" target="_blank" class="realtorCardWebsite noPrint"><i class="fa fa-external-link realtorCardContactIcon"></i><span class="realtorCardContactNumber">REALTOR<sup>®</sup> Website</span></a>
+
+                        
+
+                    
+                </div>
+                <div class="realtorCardBottomRight">
+
+                    
+                    <div class="realtorCardSocialIcons" data-binding="SocialIcons,visible=ShowSocialIcons">
+
+                        
+                                <a href="https://www.facebook.com/JeffreyShiffRealEstateSales" data-binding="href=LinkURL" rel="noopener noreferrer" target="_blank" class="FacebookSocialLink">
+                                    <img class="realtorCardSocialIcon btn" src="/images/common/icons/svg/facebook.svg" data-binding="src=ImageURL"></a>
+                            
+                                <a href="http://ca.linkedin.com/in/jeffreyshiff/" data-binding="href=LinkURL" rel="noopener noreferrer" target="_blank" class="LinkedInSocialLink">
+                                    <img class="realtorCardSocialIcon btn" src="/images/common/icons/svg/linkedin.svg" data-binding="src=ImageURL"></a>
+                            
+
+                    </div>
+                    
+                    <a href="#" class="lnkEmailRealtor blueRoundedBtn btn" data-binding="visible=ShowEmailButton"><span class="fa fa-envelope"></span><span class="realtorCardFooterLinkText">Email</span></a>
+                    
+                </div>
+            </div>
+        </div>
+        
+    </div>
+</div>
+
+
+
+
+
+<script>
+    var obj = new PublicContracts.IndividualBasicDetails();
+    obj.IndividualID = '1950737';
+    obj.Organization = new PublicContracts.OrganizationBasicDetails();
+    obj.Organization.OrganizationID = '271789';
+    var model = new RealtorCardModel(obj, '', '', ''); //TODO - handle JS binding
+    var carousel = new Controls.Desktop.RealtorCard(model, 'realtorCard');
+
+</script>
+</span>
+                    </div>
+                
+                    <div class="realtorSearchResultCardCon">
+                        <span id="realtorCard" class="ControlBaseWrapper " style=""> 
+
+
+
+
+
+
+<div class="realtorCardCon card " id="RealtorCard-2179024" data-binding="id=RealtorCard-{IndividualId}">
+    <div class="realtorCardBody">
+        <div class="realtorCardTop">
+            <div class="realtorCardInnerTop">
+                
+                    <div class="realtorCardTopCenter ">
+                        
+                        <a href="/agent/2179024/nikki-pinkett-singh-102-50-burnhamthorpe-rd-w-mississauga-ontario-l5b3c2" data-binding="href=DetailsURL" class="realtorCardDetailsLink realtorDetailsLink">
+                            
+
+                            <div class="">
+                                <span data-binding="visible=ShowRealtorName">
+                                    <span class="realtorCardName" data-binding="innertext=RealtorName">NIKKI PINKETT SINGH</span>
+                                    
+                                    <span class="realtorCardEducation" data-binding="innertext=RealtorEducationalCredentials"></span>
+                                </span>
+                            </div>
+
+                            
+
+                            <div class="realtorCardTitle" data-binding="innertext=RealtorPosition">
+                                Salesperson
+                            </div>
+
+                            
+
+                            <div class="realtorCardAddress" data-binding="visible=ShowRealtorAddress,innertext=Address">
+                                
+                            </div>
+
+
+                            
+                            <div class="realtorCardOfficeInfo" data-binding="visible=ShowOfficeInfo">
+                                
+                                <img class="realtorCardOfficeLogo" data-binding="src=OfficeLogoImageURL,visible=ShowOfficeLogo,alt=OfficeAltText" src="https://cdn.realtor.ca/organization/en-CA/TS636657861600000000/lowres/62975.jpg" alt="RE/MAX REALTY ONE INC. logo">
+                                
+                                <div class="realtorCardOfficeName" data-binding="innertext=OfficeName">
+                                    RE/MAX REALTY ONE INC.
+                                </div>
+                                <div class="realtorCardOfficeDesignation" data-binding="innertext=OfficeDesignationName">
+                                    Brokerage
+                                </div>
+                                <div class="realtorCardOfficeAddress" data-binding="innertext=OfficeAddress">
+                                    102-50 BURNHAMTHORPE RD W., MISSISSAUGA, Ontario L5B3C2
+                                    
+                                </div>
+                            </div>
+                            
+                        </a>
+                        
+                    </div>
+
+                    <div class="realtorCardTopRight ">
+                                    
+
+                        
+                    </div>
+                  
+            </div>
+        </div>
+        <div class="realtorCardBottom">
+            <div class="realtorCardInnerBottom">
+                <div class="realtorCardBottomLeft">
+
+                    
+                            <div class="realtorCardPhone" data-type="Telephone"><span class="realtorCardContactIcon"><i class="fa fa-phone"></i></span><span class="realtorCardContactNumber TelephoneNumber">905-277-0771</span></div>
+                        
+
+                    
+
+                    
+                </div>
+                <div class="realtorCardBottomRight">
+
+                    
+                    <div class="realtorCardSocialIcons" data-binding="SocialIcons,visible=ShowSocialIcons">
+
+                        
+
+                    </div>
+                    
+                    <a href="#" class="lnkEmailRealtor blueRoundedBtn btn" data-binding="visible=ShowEmailButton"><span class="fa fa-envelope"></span><span class="realtorCardFooterLinkText">Email</span></a>
+                    
+                </div>
+            </div>
+        </div>
+        
+    </div>
+</div>
+
+
+
+
+
+<script>
+    var obj = new PublicContracts.IndividualBasicDetails();
+    obj.IndividualID = '2179024';
+    obj.Organization = new PublicContracts.OrganizationBasicDetails();
+    obj.Organization.OrganizationID = '62975';
+    var model = new RealtorCardModel(obj, '', '', ''); //TODO - handle JS binding
+    var carousel = new Controls.Desktop.RealtorCard(model, 'realtorCard');
+
+</script>
+</span>
+                    </div>
+                
+                    <div class="realtorSearchResultCardCon">
+                        <span id="realtorCard" class="ControlBaseWrapper " style=""> 
+
+
+
+
+
+
+<div class="realtorCardCon card " id="RealtorCard-1894952" data-binding="id=RealtorCard-{IndividualId}">
+    <div class="realtorCardBody">
+        <div class="realtorCardTop">
+            <div class="realtorCardInnerTop">
+                
+                    <div class="realtorCardTopCenter ">
+                        
+                        <a href="/agent/1894952/shafin-jadavji-212-king-st-west-101-toronto-ontario-m5h1k5" data-binding="href=DetailsURL" class="realtorCardDetailsLink realtorDetailsLink">
+                            
+
+                            <div class="">
+                                <span data-binding="visible=ShowRealtorName">
+                                    <span class="realtorCardName" data-binding="innertext=RealtorName">SHAFIN JADAVJI</span>
+                                    
+                                    <span class="realtorCardEducation" data-binding="innertext=RealtorEducationalCredentials"></span>
+                                </span>
+                            </div>
+
+                            
+
+                            <div class="realtorCardTitle" data-binding="innertext=RealtorPosition">
+                                Broker of Record
+                            </div>
+
+                            
+
+                            <div class="realtorCardAddress" data-binding="visible=ShowRealtorAddress,innertext=Address">
+                                
+                            </div>
+
+
+                            
+                            <div class="realtorCardOfficeInfo" data-binding="visible=ShowOfficeInfo">
+                                
+                                <div class="realtorCardOfficeName" data-binding="innertext=OfficeName">
+                                    CUBECOM COMMERCIAL REALTY INC.
+                                </div>
+                                <div class="realtorCardOfficeDesignation" data-binding="innertext=OfficeDesignationName">
+                                    Brokerage
+                                </div>
+                                <div class="realtorCardOfficeAddress" data-binding="innertext=OfficeAddress">
+                                    212 KING ST WEST #101, TORONTO, Ontario M5H1K5
+                                    
+                                </div>
+                            </div>
+                            
+                        </a>
+                        
+                    </div>
+
+                    <div class="realtorCardTopRight ">
+                                    
+
+                        
+                        <div class="realtorCardCCNLogo" data-binding="visible=IsCCN">
+                            <img src="/images/common/ccn.gif" id="realtorCardCCNLogo">
+                        </div>
+                        
+                    </div>
+                  
+            </div>
+        </div>
+        <div class="realtorCardBottom">
+            <div class="realtorCardInnerBottom">
+                <div class="realtorCardBottomLeft">
+
+                    
+                            <div class="realtorCardPhone" data-type="Telephone"><span class="realtorCardContactIcon"><i class="fa fa-phone"></i></span><span class="realtorCardContactNumber TelephoneNumber">647-943-2823 ext 102</span></div>
+                        
+
+                    
+
+                            <a href="http://www.cubecom.ca" rel="noopener noreferrer" target="_blank" class="realtorCardWebsite noPrint"><i class="fa fa-external-link realtorCardContactIcon"></i><span class="realtorCardContactNumber">REALTOR<sup>®</sup> Website</span></a>
+
+                        
+
+                    
+                </div>
+                <div class="realtorCardBottomRight">
+
+                    
+                    <div class="realtorCardSocialIcons" data-binding="SocialIcons,visible=ShowSocialIcons">
+
+                        
+
+                    </div>
+                    
+                    <a href="#" class="lnkEmailRealtor blueRoundedBtn btn" data-binding="visible=ShowEmailButton"><span class="fa fa-envelope"></span><span class="realtorCardFooterLinkText">Email</span></a>
+                    
+                </div>
+            </div>
+        </div>
+        
+    </div>
+</div>
+
+
+
+
+
+<script>
+    var obj = new PublicContracts.IndividualBasicDetails();
+    obj.IndividualID = '1894952';
+    obj.Organization = new PublicContracts.OrganizationBasicDetails();
+    obj.Organization.OrganizationID = '274540';
+    var model = new RealtorCardModel(obj, '', '', ''); //TODO - handle JS binding
+    var carousel = new Controls.Desktop.RealtorCard(model, 'realtorCard');
+
+</script>
+</span>
+                    </div>
+                
+                    <div class="realtorSearchResultCardCon">
+                        <span id="realtorCard" class="ControlBaseWrapper " style=""> 
+
+
+
+
+
+
+<div class="realtorCardCon card " id="RealtorCard-1979777" data-binding="id=RealtorCard-{IndividualId}">
+    <div class="realtorCardBody">
+        <div class="realtorCardTop">
+            <div class="realtorCardInnerTop">
+                
+                <div class="realtorCardTopLeft realtorCardImageCon" data-binding="visible=ShowRealtorImage">
+
+                    
+                    <a href="/agent/1979777/mahmoud-ghalayeni-6224-king-vista-sw-edmonton-alberta-t6w3z8" data-binding="href=DetailsURL" class="realtorDetailsLink">
+                        
+
+                        <img class="realtorCardImage" src="https://cdn.realtor.ca/individual/TS636165439800000000/lowres/1265603.jpg" data-binding="src=RealtorImageURL,alt=RealtorAltText,title=RealtorName" alt="Mahmoud S. Ghalayeni photo" title="Mahmoud S. Ghalayeni">
+                        
+                    </a>
+                    
+                </div>
+                <div id="realtorCardWrapDetails"> 
+                    <div class="realtorCardTopCenter realtorCardWrapTopCenter">
+                        
+                        <a href="/agent/1979777/mahmoud-ghalayeni-6224-king-vista-sw-edmonton-alberta-t6w3z8" data-binding="href=DetailsURL" class="realtorCardDetailsLink realtorDetailsLink">
+                            
+
+                            <div class="">
+                                <span data-binding="visible=ShowRealtorName">
+                                    <span class="realtorCardName" data-binding="innertext=RealtorName">Mahmoud S. Ghalayeni</span>
+                                    
+                                    <span class="realtorCardEducation" data-binding="innertext=RealtorEducationalCredentials"></span>
+                                </span>
+                            </div>
+
+                            
+
+                            <div class="realtorCardTitle" data-binding="innertext=RealtorPosition">
+                                Associate
+                            </div>
+
+                            
+
+                            <div class="realtorCardAddress" data-binding="visible=ShowRealtorAddress,innertext=Address">
+                                
+                            </div>
+
+
+                            
+                            <div class="realtorCardOfficeInfo" data-binding="visible=ShowOfficeInfo">
+                                
+                                <div class="realtorCardOfficeName" data-binding="innertext=OfficeName">
+                                    The E Group Real Estate
+                                </div>
+                                <div class="realtorCardOfficeDesignation" data-binding="innertext=OfficeDesignationName">
+                                    
+                                </div>
+                                <div class="realtorCardOfficeAddress" data-binding="innertext=OfficeAddress">
+                                    6224 King Vista SW, Edmonton, Alberta T6W3Z8
+                                    
+                                </div>
+                            </div>
+                            
+                        </a>
+                        
+                    </div>
+
+                    <div class="realtorCardTopRight realtorCardWrapTopRight">
+                                    
+
+                        
+                    </div>
+                  </div>
+            </div>
+        </div>
+        <div class="realtorCardBottom">
+            <div class="realtorCardInnerBottom">
+                <div class="realtorCardBottomLeft">
+
+                    
+                            <div class="realtorCardPhone" data-type="Telephone"><span class="realtorCardContactIcon"><i class="fa fa-phone"></i></span><span class="realtorCardContactNumber TelephoneNumber">780-222-4602</span></div>
+                        
+
+                    
+
+                            <a href="https://mahmoud.realtor/" rel="noopener noreferrer" target="_blank" class="realtorCardWebsite noPrint"><i class="fa fa-external-link realtorCardContactIcon"></i><span class="realtorCardContactNumber">REALTOR<sup>®</sup> Website</span></a>
+
+                        
+
+                    
+                </div>
+                <div class="realtorCardBottomRight">
+
+                    
+                    <div class="realtorCardSocialIcons" data-binding="SocialIcons,visible=ShowSocialIcons">
+
+                        
+                                <a href="https://www.facebook.com/MSGREALESTATE/" data-binding="href=LinkURL" rel="noopener noreferrer" target="_blank" class="FacebookSocialLink">
+                                    <img class="realtorCardSocialIcon btn" src="/images/common/icons/svg/facebook.svg" data-binding="src=ImageURL"></a>
+                            
+                                <a href="https://www.linkedin.com/in/mahmoudghalayeni/" data-binding="href=LinkURL" rel="noopener noreferrer" target="_blank" class="LinkedInSocialLink">
+                                    <img class="realtorCardSocialIcon btn" src="/images/common/icons/svg/linkedin.svg" data-binding="src=ImageURL"></a>
+                            
+                                <a href="https://twitter.com/9c309f7e6f98427" data-binding="href=LinkURL" rel="noopener noreferrer" target="_blank" class="TwitterSocialLink">
+                                    <img class="realtorCardSocialIcon btn" src="/images/common/icons/svg/twitter.svg" data-binding="src=ImageURL"></a>
+                            
+
+                    </div>
+                    
+                    <a href="#" class="lnkEmailRealtor blueRoundedBtn btn" data-binding="visible=ShowEmailButton"><span class="fa fa-envelope"></span><span class="realtorCardFooterLinkText">Email</span></a>
+                    
+                </div>
+            </div>
+        </div>
+        
+    </div>
+</div>
+
+
+
+
+
+<script>
+    var obj = new PublicContracts.IndividualBasicDetails();
+    obj.IndividualID = '1979777';
+    obj.Organization = new PublicContracts.OrganizationBasicDetails();
+    obj.Organization.OrganizationID = '285238';
+    var model = new RealtorCardModel(obj, '', '', ''); //TODO - handle JS binding
+    var carousel = new Controls.Desktop.RealtorCard(model, 'realtorCard');
+
+</script>
+</span>
+                    </div>
+                
+                    <div class="realtorSearchResultCardCon">
+                        <span id="realtorCard" class="ControlBaseWrapper " style=""> 
+
+
+
+
+
+
+<div class="realtorCardCon card " id="RealtorCard-2025812" data-binding="id=RealtorCard-{IndividualId}">
+    <div class="realtorCardBody">
+        <div class="realtorCardTop">
+            <div class="realtorCardInnerTop">
+                
+                <div class="realtorCardTopLeft realtorCardImageCon" data-binding="visible=ShowRealtorImage">
+
+                    
+                    <a href="/agent/2025812/corey-propp-300-340-midpark-way-se-calgary-alberta-t2x1p1" data-binding="href=DetailsURL" class="realtorDetailsLink">
+                        
+
+                        <img class="realtorCardImage" src="https://cdn.realtor.ca/individual/TS636956896800000000/lowres/1305385.jpg" data-binding="src=RealtorImageURL,alt=RealtorAltText,title=RealtorName" alt="Corey Propp photo" title="Corey Propp">
+                        
+                    </a>
+                    
+                </div>
+                <div id="realtorCardWrapDetails"> 
+                    <div class="realtorCardTopCenter realtorCardWrapTopCenter">
+                        
+                        <a href="/agent/2025812/corey-propp-300-340-midpark-way-se-calgary-alberta-t2x1p1" data-binding="href=DetailsURL" class="realtorCardDetailsLink realtorDetailsLink">
+                            
+
+                            <div class="">
+                                <span data-binding="visible=ShowRealtorName">
+                                    <span class="realtorCardName" data-binding="innertext=RealtorName">Corey Propp</span>
+                                    
+                                    <span class="realtorCardEducation" data-binding="innertext=RealtorEducationalCredentials"></span>
+                                </span>
+                            </div>
+
+                            
+
+                            <div class="realtorCardTitle" data-binding="innertext=RealtorPosition">
+                                Associate
+                            </div>
+
+                            
+
+                            <div class="realtorCardAddress" data-binding="visible=ShowRealtorAddress,innertext=Address">
+                                
+                            </div>
+
+
+                            
+                            <div class="realtorCardOfficeInfo" data-binding="visible=ShowOfficeInfo">
+                                
+                                <div class="realtorCardOfficeName" data-binding="innertext=OfficeName">
+                                    HERITAGE ELITE REALTY
+                                </div>
+                                <div class="realtorCardOfficeDesignation" data-binding="innertext=OfficeDesignationName">
+                                    
+                                </div>
+                                <div class="realtorCardOfficeAddress" data-binding="innertext=OfficeAddress">
+                                    300, 340 MIDPARK WAY SE, CALGARY, Alberta T2X1P1
+                                    
+                                </div>
+                            </div>
+                            
+                        </a>
+                        
+                    </div>
+
+                    <div class="realtorCardTopRight realtorCardWrapTopRight">
+                                    
+
+                        
+                    </div>
+                  </div>
+            </div>
+        </div>
+        <div class="realtorCardBottom">
+            <div class="realtorCardInnerBottom">
+                <div class="realtorCardBottomLeft">
+
+                    
+                            <div class="realtorCardPhone" data-type="Telephone"><span class="realtorCardContactIcon"><i class="fa fa-phone"></i></span><span class="realtorCardContactNumber TelephoneNumber">403-992-5794</span></div>
+                        
+
+                    
+
+                            <a href="http://www.calgaryyychomes.ca" rel="noopener noreferrer" target="_blank" class="realtorCardWebsite noPrint"><i class="fa fa-external-link realtorCardContactIcon"></i><span class="realtorCardContactNumber">REALTOR<sup>®</sup> Website</span></a>
+
+                        
+
+                    
+                </div>
+                <div class="realtorCardBottomRight">
+
+                    
+                    <div class="realtorCardSocialIcons" data-binding="SocialIcons,visible=ShowSocialIcons">
+
+                        
+                                <a href="https://www.youtube.com/channel/UCwa85p18jBoQjuTMn" data-binding="href=LinkURL" rel="noopener noreferrer" target="_blank" class="FacebookSocialLink">
+                                    <img class="realtorCardSocialIcon btn" src="/images/common/icons/svg/facebook.svg" data-binding="src=ImageURL"></a>
+                            
+
+                    </div>
+                    
+                    <a href="#" class="lnkEmailRealtor blueRoundedBtn btn" data-binding="visible=ShowEmailButton"><span class="fa fa-envelope"></span><span class="realtorCardFooterLinkText">Email</span></a>
+                    
+                </div>
+            </div>
+        </div>
+        
+    </div>
+</div>
+
+
+
+
+
+<script>
+    var obj = new PublicContracts.IndividualBasicDetails();
+    obj.IndividualID = '2025812';
+    obj.Organization = new PublicContracts.OrganizationBasicDetails();
+    obj.Organization.OrganizationID = '283502';
+    var model = new RealtorCardModel(obj, '', '', ''); //TODO - handle JS binding
+    var carousel = new Controls.Desktop.RealtorCard(model, 'realtorCard');
+
+</script>
+</span>
+                    </div>
+                
+                    <div class="realtorSearchResultCardCon">
+                        <span id="realtorCard" class="ControlBaseWrapper " style=""> 
+
+
+
+
+
+
+<div class="realtorCardCon card " id="RealtorCard-2052925" data-binding="id=RealtorCard-{IndividualId}">
+    <div class="realtorCardBody">
+        <div class="realtorCardTop">
+            <div class="realtorCardInnerTop">
+                
+                    <div class="realtorCardTopCenter ">
+                        
+                        <a href="/agent/2052925/jeff-penelas-125-lakeshore-road-east-mississauga-ontario-l5g1e5" data-binding="href=DetailsURL" class="realtorCardDetailsLink realtorDetailsLink">
+                            
+
+                            <div class="">
+                                <span data-binding="visible=ShowRealtorName">
+                                    <span class="realtorCardName" data-binding="innertext=RealtorName">Jeff Penelas</span>
+                                    
+                                    <span class="realtorCardEducation" data-binding="innertext=RealtorEducationalCredentials"></span>
+                                </span>
+                            </div>
+
+                            
+
+                            <div class="realtorCardTitle" data-binding="innertext=RealtorPosition">
+                                Salesperson
+                            </div>
+
+                            
+
+                            <div class="realtorCardAddress" data-binding="visible=ShowRealtorAddress,innertext=Address">
+                                
+                            </div>
+
+
+                            
+                            <div class="realtorCardOfficeInfo" data-binding="visible=ShowOfficeInfo">
+                                
+                                <img class="realtorCardOfficeLogo" data-binding="src=OfficeLogoImageURL,visible=ShowOfficeLogo,alt=OfficeAltText" src="https://cdn.realtor.ca/organization/en-CA/TS637431943800000000/lowres/1326258.jpg" alt="RE/MAX REALTY ENTERPRISES INC.(LSE) logo">
+                                
+                                <div class="realtorCardOfficeName" data-binding="innertext=OfficeName">
+                                    RE/MAX REALTY ENTERPRISES INC.(LSE)
+                                </div>
+                                <div class="realtorCardOfficeDesignation" data-binding="innertext=OfficeDesignationName">
+                                    
+                                </div>
+                                <div class="realtorCardOfficeAddress" data-binding="innertext=OfficeAddress">
+                                    125 Lakeshore Road East, Mississauga, Ontario L5G1E5
+                                    
+                                </div>
+                            </div>
+                            
+                        </a>
+                        
+                    </div>
+
+                    <div class="realtorCardTopRight ">
+                                    
+
+                        
+                    </div>
+                  
+            </div>
+        </div>
+        <div class="realtorCardBottom">
+            <div class="realtorCardInnerBottom">
+                <div class="realtorCardBottomLeft">
+
+                    
+                            <div class="realtorCardPhone" data-type="Telephone"><span class="realtorCardContactIcon"><i class="fa fa-phone"></i></span><span class="realtorCardContactNumber TelephoneNumber">416-846-6537</span></div>
+                        
+
+                    
+
+                    
+                </div>
+                <div class="realtorCardBottomRight">
+
+                    
+                    <div class="realtorCardSocialIcons" data-binding="SocialIcons,visible=ShowSocialIcons">
+
+                        
+
+                    </div>
+                    
+                    <a href="#" class="lnkEmailRealtor blueRoundedBtn btn" data-binding="visible=ShowEmailButton"><span class="fa fa-envelope"></span><span class="realtorCardFooterLinkText">Email</span></a>
+                    
+                </div>
+            </div>
+        </div>
+        
+    </div>
+</div>
+
+
+
+
+
+<script>
+    var obj = new PublicContracts.IndividualBasicDetails();
+    obj.IndividualID = '2052925';
+    obj.Organization = new PublicContracts.OrganizationBasicDetails();
+    obj.Organization.OrganizationID = '283269';
+    var model = new RealtorCardModel(obj, '', '', ''); //TODO - handle JS binding
+    var carousel = new Controls.Desktop.RealtorCard(model, 'realtorCard');
+
+</script>
+</span>
+                    </div>
+                
+                    <div class="realtorSearchResultCardCon">
+                        <span id="realtorCard" class="ControlBaseWrapper " style=""> 
+
+
+
+
+
+
+<div class="realtorCardCon card " id="RealtorCard-1943111" data-binding="id=RealtorCard-{IndividualId}">
+    <div class="realtorCardBody">
+        <div class="realtorCardTop">
+            <div class="realtorCardInnerTop">
+                
+                <div class="realtorCardTopLeft realtorCardImageCon" data-binding="visible=ShowRealtorImage">
+
+                    
+                    <a href="/agent/1943111/saima-imran-qureshi-80-eastern-avenue-3-brampton-ontario-l6w1x9" data-binding="href=DetailsURL" class="realtorDetailsLink">
+                        
+
+                        <img class="realtorCardImage" src="https://cdn.realtor.ca/individual/TS637885582200000000/lowres/1239389.jpg" data-binding="src=RealtorImageURL,alt=RealtorAltText,title=RealtorName" alt="SAIMA IMRAN QURESHI photo" title="SAIMA IMRAN QURESHI">
+                        
+                    </a>
+                    
+                </div>
+                <div id="realtorCardWrapDetails"> 
+                    <div class="realtorCardTopCenter realtorCardWrapTopCenter">
+                        
+                        <a href="/agent/1943111/saima-imran-qureshi-80-eastern-avenue-3-brampton-ontario-l6w1x9" data-binding="href=DetailsURL" class="realtorCardDetailsLink realtorDetailsLink">
+                            
+
+                            <div class="">
+                                <span data-binding="visible=ShowRealtorName">
+                                    <span class="realtorCardName" data-binding="innertext=RealtorName">SAIMA IMRAN QURESHI</span>
+                                    
+                                    <span class="realtorCardEducation" data-binding="innertext=RealtorEducationalCredentials"></span>
+                                </span>
+                            </div>
+
+                            
+
+                            <div class="realtorCardTitle" data-binding="innertext=RealtorPosition">
+                                Salesperson
+                            </div>
+
+                            
+
+                            <div class="realtorCardAddress" data-binding="visible=ShowRealtorAddress,innertext=Address">
+                                
+                            </div>
+
+
+                            
+                            <div class="realtorCardOfficeInfo" data-binding="visible=ShowOfficeInfo">
+                                
+                                <img class="realtorCardOfficeLogo" data-binding="src=OfficeLogoImageURL,visible=ShowOfficeLogo,alt=OfficeAltText" src="https://cdn.realtor.ca/organization/en-CA/TS636657861600000000/lowres/247448.jpg" alt="HOMELIFE MAPLE LEAF REALTY LTD. logo">
+                                
+                                <div class="realtorCardOfficeName" data-binding="innertext=OfficeName">
+                                    HOMELIFE MAPLE LEAF REALTY LTD.
+                                </div>
+                                <div class="realtorCardOfficeDesignation" data-binding="innertext=OfficeDesignationName">
+                                    Brokerage
+                                </div>
+                                <div class="realtorCardOfficeAddress" data-binding="innertext=OfficeAddress">
+                                    80 EASTERN AVENUE #3, BRAMPTON, Ontario L6W1X9
+                                    
+                                </div>
+                            </div>
+                            
+                        </a>
+                        
+                    </div>
+
+                    <div class="realtorCardTopRight realtorCardWrapTopRight">
+                                    
+
+                        
+                    </div>
+                  </div>
+            </div>
+        </div>
+        <div class="realtorCardBottom">
+            <div class="realtorCardInnerBottom">
+                <div class="realtorCardBottomLeft">
+
+                    
+                            <div class="realtorCardPhone" data-type="Telephone"><span class="realtorCardContactIcon"><i class="fa fa-phone"></i></span><span class="realtorCardContactNumber TelephoneNumber">905-456-9090</span></div>
+                        
+
+                    
+
+                            <a href="https://www.homeswithsaimaqureshi.com/" rel="noopener noreferrer" target="_blank" class="realtorCardWebsite noPrint"><i class="fa fa-external-link realtorCardContactIcon"></i><span class="realtorCardContactNumber">REALTOR<sup>®</sup> Website</span></a>
+
+                        
+
+                    
+                </div>
+                <div class="realtorCardBottomRight">
+
+                    
+                    <div class="realtorCardSocialIcons" data-binding="SocialIcons,visible=ShowSocialIcons">
+
+                        
+                                <a href="https://www.facebook.com/QureshiRealtors" data-binding="href=LinkURL" rel="noopener noreferrer" target="_blank" class="FacebookSocialLink">
+                                    <img class="realtorCardSocialIcon btn" src="/images/common/icons/svg/facebook.svg" data-binding="src=ImageURL"></a>
+                            
+
+                    </div>
+                    
+                    <a href="#" class="lnkEmailRealtor blueRoundedBtn btn" data-binding="visible=ShowEmailButton"><span class="fa fa-envelope"></span><span class="realtorCardFooterLinkText">Email</span></a>
+                    
+                </div>
+            </div>
+        </div>
+        
+    </div>
+</div>
+
+
+
+
+
+<script>
+    var obj = new PublicContracts.IndividualBasicDetails();
+    obj.IndividualID = '1943111';
+    obj.Organization = new PublicContracts.OrganizationBasicDetails();
+    obj.Organization.OrganizationID = '247448';
+    var model = new RealtorCardModel(obj, '', '', ''); //TODO - handle JS binding
+    var carousel = new Controls.Desktop.RealtorCard(model, 'realtorCard');
+
+</script>
+</span>
+                    </div>
+                
+                    <div class="realtorSearchResultCardCon">
+                        <span id="realtorCard" class="ControlBaseWrapper " style=""> 
+
+
+
+
+
+
+<div class="realtorCardCon card " id="RealtorCard-2127041" data-binding="id=RealtorCard-{IndividualId}">
+    <div class="realtorCardBody">
+        <div class="realtorCardTop">
+            <div class="realtorCardInnerTop">
+                
+                <div class="realtorCardTopLeft realtorCardImageCon" data-binding="visible=ShowRealtorImage">
+
+                    
+                    <a href="/agent/2127041/michael-ouzas-495-wellington-st-w-100-toronto-ontario-m5v1g1" data-binding="href=DetailsURL" class="realtorDetailsLink">
+                        
+
+                        <img class="realtorCardImage" src="https://cdn.realtor.ca/individual/TS637877150400000000/lowres/1380303.jpg" data-binding="src=RealtorImageURL,alt=RealtorAltText,title=RealtorName" alt="MICHAEL OUZAS photo" title="MICHAEL OUZAS">
+                        
+                    </a>
+                    
+                </div>
+                <div id="realtorCardWrapDetails"> 
+                    <div class="realtorCardTopCenter realtorCardWrapTopCenter">
+                        
+                        <a href="/agent/2127041/michael-ouzas-495-wellington-st-w-100-toronto-ontario-m5v1g1" data-binding="href=DetailsURL" class="realtorCardDetailsLink realtorDetailsLink">
+                            
+
+                            <div class="">
+                                <span data-binding="visible=ShowRealtorName">
+                                    <span class="realtorCardName" data-binding="innertext=RealtorName">MICHAEL OUZAS</span>
+                                    
+                                    <span class="realtorCardEducation" data-binding="innertext=RealtorEducationalCredentials"></span>
+                                </span>
+                            </div>
+
+                            
+
+                            <div class="realtorCardTitle" data-binding="innertext=RealtorPosition">
+                                Salesperson
+                            </div>
+
+                            
+
+                            <div class="realtorCardAddress" data-binding="visible=ShowRealtorAddress,innertext=Address">
+                                
+                            </div>
+
+
+                            
+                            <div class="realtorCardOfficeInfo" data-binding="visible=ShowOfficeInfo">
+                                
+                                <img class="realtorCardOfficeLogo" data-binding="src=OfficeLogoImageURL,visible=ShowOfficeLogo,alt=OfficeAltText" src="https://cdn.realtor.ca/organization/en-CA/TS638131870200000000/lowres/default/royallepage.gif" alt="ROYAL LEPAGE SIGNATURE REALTY logo">
+                                
+                                <div class="realtorCardOfficeName" data-binding="innertext=OfficeName">
+                                    ROYAL LEPAGE SIGNATURE REALTY
+                                </div>
+                                <div class="realtorCardOfficeDesignation" data-binding="innertext=OfficeDesignationName">
+                                    Brokerage
+                                </div>
+                                <div class="realtorCardOfficeAddress" data-binding="innertext=OfficeAddress">
+                                    495 WELLINGTON ST W #100, TORONTO, Ontario M5V1G1
+                                    
+                                </div>
+                            </div>
+                            
+                        </a>
+                        
+                    </div>
+
+                    <div class="realtorCardTopRight realtorCardWrapTopRight">
+                                    
+
+                        
+                    </div>
+                  </div>
+            </div>
+        </div>
+        <div class="realtorCardBottom">
+            <div class="realtorCardInnerBottom">
+                <div class="realtorCardBottomLeft">
+
+                    
+                            <div class="realtorCardPhone" data-type="Telephone"><span class="realtorCardContactIcon"><i class="fa fa-phone"></i></span><span class="realtorCardContactNumber TelephoneNumber">416-205-0355</span></div>
+                        
+                            <div class="realtorCardPhone" data-type="TollFree"><span class="realtorCardContactIcon"><i class="fa fa-phone"></i></span><span class="realtorCardContactNumber TollFreeNumber">289-230-9887</span></div>
+                        
+
+                    
+
+                    
+                </div>
+                <div class="realtorCardBottomRight">
+
+                    
+                    <div class="realtorCardSocialIcons" data-binding="SocialIcons,visible=ShowSocialIcons">
+
+                        
+                                <a href="https://www.youtube.com/embed/Buq0_leiw_s" data-binding="href=LinkURL" rel="noopener noreferrer" target="_blank" class="SocialLink">
+                                    <img class="realtorCardSocialIcon btn" src="" data-binding="src=ImageURL"></a>
+                            
+
+                    </div>
+                    
+                    <a href="#" class="lnkEmailRealtor blueRoundedBtn btn" data-binding="visible=ShowEmailButton"><span class="fa fa-envelope"></span><span class="realtorCardFooterLinkText">Email</span></a>
+                    
+                </div>
+            </div>
+        </div>
+        
+    </div>
+</div>
+
+
+
+
+
+<script>
+    var obj = new PublicContracts.IndividualBasicDetails();
+    obj.IndividualID = '2127041';
+    obj.Organization = new PublicContracts.OrganizationBasicDetails();
+    obj.Organization.OrganizationID = '275987';
+    var model = new RealtorCardModel(obj, '', '', ''); //TODO - handle JS binding
+    var carousel = new Controls.Desktop.RealtorCard(model, 'realtorCard');
+
+</script>
+</span>
+                    </div>
+                
+                    <div class="realtorSearchResultCardCon">
+                        <span id="realtorCard" class="ControlBaseWrapper " style=""> 
+
+
+
+
+
+
+<div class="realtorCardCon card " id="RealtorCard-2172517" data-binding="id=RealtorCard-{IndividualId}">
+    <div class="realtorCardBody">
+        <div class="realtorCardTop">
+            <div class="realtorCardInnerTop">
+                
+                    <div class="realtorCardTopCenter ">
+                        
+                        <a href="/agent/2172517/samantha-tully-333-charlotte-st-unit-2-peterborough-ontario-k9j6y7" data-binding="href=DetailsURL" class="realtorCardDetailsLink realtorDetailsLink">
+                            
+
+                            <div class="">
+                                <span data-binding="visible=ShowRealtorName">
+                                    <span class="realtorCardName" data-binding="innertext=RealtorName">SAMANTHA TULLY</span>
+                                    
+                                    <span class="realtorCardEducation" data-binding="innertext=RealtorEducationalCredentials"></span>
+                                </span>
+                            </div>
+
+                            
+
+                            <div class="realtorCardTitle" data-binding="innertext=RealtorPosition">
+                                Salesperson
+                            </div>
+
+                            
+
+                            <div class="realtorCardAddress" data-binding="visible=ShowRealtorAddress,innertext=Address">
+                                
+                            </div>
+
+
+                            
+                            <div class="realtorCardOfficeInfo" data-binding="visible=ShowOfficeInfo">
+                                
+                                <div class="realtorCardOfficeName" data-binding="innertext=OfficeName">
+                                    BOWES &amp; COCKS LIMITED
+                                </div>
+                                <div class="realtorCardOfficeDesignation" data-binding="innertext=OfficeDesignationName">
+                                    Brokerage
+                                </div>
+                                <div class="realtorCardOfficeAddress" data-binding="innertext=OfficeAddress">
+                                    333 CHARLOTTE ST UNIT 2, PETERBOROUGH, Ontario K9J6Y7
+                                    
+                                </div>
+                            </div>
+                            
+                        </a>
+                        
+                    </div>
+
+                    <div class="realtorCardTopRight ">
+                                    
+
+                        
+                    </div>
+                  
+            </div>
+        </div>
+        <div class="realtorCardBottom">
+            <div class="realtorCardInnerBottom">
+                <div class="realtorCardBottomLeft">
+
+                    
+                            <div class="realtorCardPhone" data-type="Telephone"><span class="realtorCardContactIcon"><i class="fa fa-phone"></i></span><span class="realtorCardContactNumber TelephoneNumber">705-742-4234</span></div>
+                        
+
+                    
+
+                    
+                </div>
+                <div class="realtorCardBottomRight">
+
+                    
+                    <div class="realtorCardSocialIcons" data-binding="SocialIcons,visible=ShowSocialIcons">
+
+                        
+
+                    </div>
+                    
+                    <a href="#" class="lnkEmailRealtor blueRoundedBtn btn" data-binding="visible=ShowEmailButton"><span class="fa fa-envelope"></span><span class="realtorCardFooterLinkText">Email</span></a>
+                    
+                </div>
+            </div>
+        </div>
+        
+    </div>
+</div>
+
+
+
+
+
+<script>
+    var obj = new PublicContracts.IndividualBasicDetails();
+    obj.IndividualID = '2172517';
+    obj.Organization = new PublicContracts.OrganizationBasicDetails();
+    obj.Organization.OrganizationID = '79892';
+    var model = new RealtorCardModel(obj, '', '', ''); //TODO - handle JS binding
+    var carousel = new Controls.Desktop.RealtorCard(model, 'realtorCard');
+
+</script>
+</span>
+                    </div>
+                
+                    <div class="realtorSearchResultCardCon">
+                        <span id="realtorCard" class="ControlBaseWrapper " style=""> 
+
+
+
+
+
+
+<div class="realtorCardCon card " id="RealtorCard-2181010" data-binding="id=RealtorCard-{IndividualId}">
+    <div class="realtorCardBody">
+        <div class="realtorCardTop">
+            <div class="realtorCardInnerTop">
+                
+                <div class="realtorCardTopLeft realtorCardImageCon" data-binding="visible=ShowRealtorImage">
+
+                    
+                    <a href="/agent/2181010/john-bokla-1500---701-west-georgia-street-vancouver-british-columbia-v7y1g5" data-binding="href=DetailsURL" class="realtorDetailsLink">
+                        
+
+                        <img class="realtorCardImage" src="https://cdn.realtor.ca/individual/TS638131672800000000/lowres/1430870.jpg" data-binding="src=RealtorImageURL,alt=RealtorAltText,title=RealtorName" alt="John Bokla photo" title="John Bokla">
+                        
+                    </a>
+                    
+                </div>
+                <div id="realtorCardWrapDetails"> 
+                    <div class="realtorCardTopCenter realtorCardWrapTopCenter">
+                        
+                        <a href="/agent/2181010/john-bokla-1500---701-west-georgia-street-vancouver-british-columbia-v7y1g5" data-binding="href=DetailsURL" class="realtorCardDetailsLink realtorDetailsLink">
+                            
+
+                            <div class="">
+                                <span data-binding="visible=ShowRealtorName">
+                                    <span class="realtorCardName" data-binding="innertext=RealtorName">John Bokla</span>
+                                    
+                                    <span class="realtorCardEducation" data-binding="innertext=RealtorEducationalCredentials"></span>
+                                </span>
+                            </div>
+
+                            
+
+                            <div class="realtorCardTitle" data-binding="innertext=RealtorPosition">
+                                
+                            </div>
+
+                            
+
+                            <div class="realtorCardAddress" data-binding="visible=ShowRealtorAddress,innertext=Address">
+                                
+                            </div>
+
+
+                            
+                            <div class="realtorCardOfficeInfo" data-binding="visible=ShowOfficeInfo">
+                                
+                                <img class="realtorCardOfficeLogo" data-binding="src=OfficeLogoImageURL,visible=ShowOfficeLogo,alt=OfficeAltText" src="https://cdn.realtor.ca/organization/en-CA/TS637743952800000000/lowres/1330325.jpg" alt="eXp Realty logo">
+                                
+                                <div class="realtorCardOfficeName" data-binding="innertext=OfficeName">
+                                    eXp Realty
+                                </div>
+                                <div class="realtorCardOfficeDesignation" data-binding="innertext=OfficeDesignationName">
+                                    
+                                </div>
+                                <div class="realtorCardOfficeAddress" data-binding="innertext=OfficeAddress">
+                                    #1500 - 701 West Georgia Street, Vancouver, British Columbia V7Y1G5
+                                    
+                                </div>
+                            </div>
+                            
+                        </a>
+                        
+                    </div>
+
+                    <div class="realtorCardTopRight realtorCardWrapTopRight">
+                                    
+
+                        
+                    </div>
+                  </div>
+            </div>
+        </div>
+        <div class="realtorCardBottom">
+            <div class="realtorCardInnerBottom">
+                <div class="realtorCardBottomLeft">
+
+                    
+                            <div class="realtorCardPhone" data-type="Telephone"><span class="realtorCardContactIcon"><i class="fa fa-phone"></i></span><span class="realtorCardContactNumber TelephoneNumber">778-999-8999</span></div>
+                        
+
+                    
+
+                            <a href="http://www.stoarealstategroup.com/" rel="noopener noreferrer" target="_blank" class="realtorCardWebsite noPrint"><i class="fa fa-external-link realtorCardContactIcon"></i><span class="realtorCardContactNumber">REALTOR<sup>®</sup> Website</span></a>
+
+                        
+
+                    
+                </div>
+                <div class="realtorCardBottomRight">
+
+                    
+                    <div class="realtorCardSocialIcons" data-binding="SocialIcons,visible=ShowSocialIcons">
+
+                        
+
+                    </div>
+                    
+                    <a href="#" class="lnkEmailRealtor blueRoundedBtn btn" data-binding="visible=ShowEmailButton"><span class="fa fa-envelope"></span><span class="realtorCardFooterLinkText">Email</span></a>
+                    
+                </div>
+            </div>
+        </div>
+        
+    </div>
+</div>
+
+
+
+
+
+<script>
+    var obj = new PublicContracts.IndividualBasicDetails();
+    obj.IndividualID = '2181010';
+    obj.Organization = new PublicContracts.OrganizationBasicDetails();
+    obj.Organization.OrganizationID = '283474';
+    var model = new RealtorCardModel(obj, '', '', ''); //TODO - handle JS binding
+    var carousel = new Controls.Desktop.RealtorCard(model, 'realtorCard');
+
+</script>
+</span>
+                    </div>
+                
+                    <div class="realtorSearchResultCardCon">
+                        <span id="realtorCard" class="ControlBaseWrapper " style=""> 
+
+
+
+
+
+
+<div class="realtorCardCon card " id="RealtorCard-2002306" data-binding="id=RealtorCard-{IndividualId}">
+    <div class="realtorCardBody">
+        <div class="realtorCardTop">
+            <div class="realtorCardInnerTop">
+                
+                <div class="realtorCardTopLeft realtorCardImageCon" data-binding="visible=ShowRealtorImage">
+
+                    
+                    <a href="/agent/2002306/alison-lang-206-2411---4-street-nw-calgary-alberta-t2m2z8" data-binding="href=DetailsURL" class="realtorDetailsLink">
+                        
+
+                        <img class="realtorCardImage" src="https://cdn.realtor.ca/individual/TS0/lowres/1285312.jpg" data-binding="src=RealtorImageURL,alt=RealtorAltText,title=RealtorName" alt="Alison Lang photo" title="Alison Lang">
+                        
+                    </a>
+                    
+                </div>
+                <div id="realtorCardWrapDetails"> 
+                    <div class="realtorCardTopCenter realtorCardWrapTopCenter">
+                        
+                        <a href="/agent/2002306/alison-lang-206-2411---4-street-nw-calgary-alberta-t2m2z8" data-binding="href=DetailsURL" class="realtorCardDetailsLink realtorDetailsLink">
+                            
+
+                            <div class="">
+                                <span data-binding="visible=ShowRealtorName">
+                                    <span class="realtorCardName" data-binding="innertext=RealtorName">Alison Lang</span>
+                                    
+                                    <span class="realtorCardEducation" data-binding="innertext=RealtorEducationalCredentials"></span>
+                                </span>
+                            </div>
+
+                            
+
+                            <div class="realtorCardTitle" data-binding="innertext=RealtorPosition">
+                                Associate
+                            </div>
+
+                            
+
+                            <div class="realtorCardAddress" data-binding="visible=ShowRealtorAddress,innertext=Address">
+                                
+                            </div>
+
+
+                            
+                            <div class="realtorCardOfficeInfo" data-binding="visible=ShowOfficeInfo">
+                                
+                                <img class="realtorCardOfficeLogo" data-binding="src=OfficeLogoImageURL,visible=ShowOfficeLogo,alt=OfficeAltText" src="https://cdn.realtor.ca/organization/en-CA/TS637756220400000000/lowres/1005167.jpg" alt="RE/MAX REAL ESTATE (CENTRAL) logo">
+                                
+                                <div class="realtorCardOfficeName" data-binding="innertext=OfficeName">
+                                    RE/MAX REAL ESTATE (CENTRAL)
+                                </div>
+                                <div class="realtorCardOfficeDesignation" data-binding="innertext=OfficeDesignationName">
+                                    
+                                </div>
+                                <div class="realtorCardOfficeAddress" data-binding="innertext=OfficeAddress">
+                                    206, 2411 - 4 STREET N.W., CALGARY, Alberta T2M2Z8
+                                    
+                                </div>
+                            </div>
+                            
+                        </a>
+                        
+                    </div>
+
+                    <div class="realtorCardTopRight realtorCardWrapTopRight">
+                                    
+
+                        
+                    </div>
+                  </div>
+            </div>
+        </div>
+        <div class="realtorCardBottom">
+            <div class="realtorCardInnerBottom">
+                <div class="realtorCardBottomLeft">
+
+                    
+                            <div class="realtorCardPhone" data-type="Telephone"><span class="realtorCardContactIcon"><i class="fa fa-phone"></i></span><span class="realtorCardContactNumber TelephoneNumber">403-808-6641</span></div>
+                        
+
+                    
+
+                    
+                </div>
+                <div class="realtorCardBottomRight">
+
+                    
+                    <div class="realtorCardSocialIcons" data-binding="SocialIcons,visible=ShowSocialIcons">
+
+                        
+
+                    </div>
+                    
+                    <a href="#" class="lnkEmailRealtor blueRoundedBtn btn" data-binding="visible=ShowEmailButton"><span class="fa fa-envelope"></span><span class="realtorCardFooterLinkText">Email</span></a>
+                    
+                </div>
+            </div>
+        </div>
+        
+    </div>
+</div>
+
+
+
+
+
+<script>
+    var obj = new PublicContracts.IndividualBasicDetails();
+    obj.IndividualID = '2002306';
+    obj.Organization = new PublicContracts.OrganizationBasicDetails();
+    obj.Organization.OrganizationID = '54516';
+    var model = new RealtorCardModel(obj, '', '', ''); //TODO - handle JS binding
+    var carousel = new Controls.Desktop.RealtorCard(model, 'realtorCard');
+
+</script>
+</span>
+                    </div>
+                
+                    <div class="realtorSearchResultCardCon">
+                        <span id="realtorCard" class="ControlBaseWrapper " style=""> 
+
+
+
+
+
+
+<div class="realtorCardCon card " id="RealtorCard-1967568" data-binding="id=RealtorCard-{IndividualId}">
+    <div class="realtorCardBody">
+        <div class="realtorCardTop">
+            <div class="realtorCardInnerTop">
+                
+                <div class="realtorCardTopLeft realtorCardImageCon" data-binding="visible=ShowRealtorImage">
+
+                    
+                    <a href="/agent/1967568/anastasia-zoitakis-100-6640-av-de-lesplanade--montréal-quebec-h2v4l5" data-binding="href=DetailsURL" class="realtorDetailsLink">
+                        
+
+                        <img class="realtorCardImage" src="https://cdn.realtor.ca/individual/TS637883889600000000/lowres/1255354.jpg" data-binding="src=RealtorImageURL,alt=RealtorAltText,title=RealtorName" alt="Anastasia Zoitakis photo" title="Anastasia Zoitakis">
+                        
+                    </a>
+                    
+                </div>
+                <div id="realtorCardWrapDetails"> 
+                    <div class="realtorCardTopCenter realtorCardWrapTopCenter">
+                        
+                        <a href="/agent/1967568/anastasia-zoitakis-100-6640-av-de-lesplanade--montréal-quebec-h2v4l5" data-binding="href=DetailsURL" class="realtorCardDetailsLink realtorDetailsLink">
+                            
+
+                            <div class="">
+                                <span data-binding="visible=ShowRealtorName">
+                                    <span class="realtorCardName" data-binding="innertext=RealtorName">Anastasia Zoitakis</span>
+                                    
+                                    <span class="realtorCardEducation" data-binding="innertext=RealtorEducationalCredentials"></span>
+                                </span>
+                            </div>
+
+                            
+
+                            <div class="realtorCardTitle" data-binding="innertext=RealtorPosition">
+                                Residential Real Estate Broker
+                            </div>
+
+                            
+                            <div class="realtorCardCorpName" data-binding="visible=ShowCorporationName">
+                                <span data-binding="innertext=CorporationName">Anastasia Zoitakis Inc.</span>
+                            </div>
+                            
+
+                            <div class="realtorCardAddress" data-binding="visible=ShowRealtorAddress,innertext=Address">
+                                
+                            </div>
+
+
+                            
+                            <div class="realtorCardOfficeInfo" data-binding="visible=ShowOfficeInfo">
+                                
+                                <img class="realtorCardOfficeLogo" data-binding="src=OfficeLogoImageURL,visible=ShowOfficeLogo,alt=OfficeAltText" src="https://cdn.realtor.ca/organization/en-CA/TS637983343200000000/lowres/1409943.jpg" alt="THE AGENCY MONTRÉAL logo">
+                                
+                                <div class="realtorCardOfficeName" data-binding="innertext=OfficeName">
+                                    THE AGENCY MONTRÉAL
+                                </div>
+                                <div class="realtorCardOfficeDesignation" data-binding="innertext=OfficeDesignationName">
+                                    Real Estate Agency
+                                </div>
+                                <div class="realtorCardOfficeAddress" data-binding="innertext=OfficeAddress">
+                                    100-6640 av. de l'Esplanade , Montréal, Quebec H2V4L5
+                                    
+                                </div>
+                            </div>
+                            
+                        </a>
+                        
+                    </div>
+
+                    <div class="realtorCardTopRight realtorCardWrapTopRight">
+                                    
+
+                        
+                    </div>
+                  </div>
+            </div>
+        </div>
+        <div class="realtorCardBottom">
+            <div class="realtorCardInnerBottom">
+                <div class="realtorCardBottomLeft">
+
+                    
+                            <div class="realtorCardPhone" data-type="Telephone"><span class="realtorCardContactIcon"><i class="fa fa-phone"></i></span><span class="realtorCardContactNumber TelephoneNumber">514-965-4663</span></div>
+                        
+
+                    
+
+                            <a href="https://theagencymontreal.com" rel="noopener noreferrer" target="_blank" class="realtorCardWebsite noPrint"><i class="fa fa-external-link realtorCardContactIcon"></i><span class="realtorCardContactNumber">REALTOR<sup>®</sup> Website</span></a>
+
+                        
+
+                    
+                </div>
+                <div class="realtorCardBottomRight">
+
+                    
+                    <div class="realtorCardSocialIcons" data-binding="SocialIcons,visible=ShowSocialIcons">
+
+                        
+
+                    </div>
+                    
+                    <a href="#" class="lnkEmailRealtor blueRoundedBtn btn" data-binding="visible=ShowEmailButton"><span class="fa fa-envelope"></span><span class="realtorCardFooterLinkText">Email</span></a>
+                    
+                </div>
+            </div>
+        </div>
+        
+    </div>
+</div>
+
+
+
+
+
+<script>
+    var obj = new PublicContracts.IndividualBasicDetails();
+    obj.IndividualID = '1967568';
+    obj.Organization = new PublicContracts.OrganizationBasicDetails();
+    obj.Organization.OrganizationID = '292258';
+    var model = new RealtorCardModel(obj, '', '', ''); //TODO - handle JS binding
+    var carousel = new Controls.Desktop.RealtorCard(model, 'realtorCard');
+
+</script>
+</span>
+                    </div>
+                
+                    <div class="realtorSearchResultCardCon">
+                        <span id="realtorCard" class="ControlBaseWrapper " style=""> 
+
+
+
+
+
+
+<div class="realtorCardCon card " id="RealtorCard-1537371" data-binding="id=RealtorCard-{IndividualId}">
+    <div class="realtorCardBody">
+        <div class="realtorCardTop">
+            <div class="realtorCardInnerTop">
+                
+                <div class="realtorCardTopLeft realtorCardImageCon" data-binding="visible=ShowRealtorImage">
+
+                    
+                    <a href="/agent/1537371/anne-ferguson-lake-carlton-plaza-st-catharines-ontario-l2r7j8" data-binding="href=DetailsURL" class="realtorDetailsLink">
+                        
+
+                        <img class="realtorCardImage" src="https://cdn.realtor.ca/individual/TS0/lowres/1145221.jpg" data-binding="src=RealtorImageURL,alt=RealtorAltText,title=RealtorName" alt="ANNE FERGUSON photo" title="ANNE FERGUSON">
+                        
+                    </a>
+                    
+                </div>
+                <div id="realtorCardWrapDetails"> 
+                    <div class="realtorCardTopCenter realtorCardWrapTopCenter">
+                        
+                        <a href="/agent/1537371/anne-ferguson-lake-carlton-plaza-st-catharines-ontario-l2r7j8" data-binding="href=DetailsURL" class="realtorCardDetailsLink realtorDetailsLink">
+                            
+
+                            <div class="">
+                                <span data-binding="visible=ShowRealtorName">
+                                    <span class="realtorCardName" data-binding="innertext=RealtorName">ANNE FERGUSON</span>
+                                    
+                                    <span class="realtorCardEducation" data-binding="innertext=RealtorEducationalCredentials"></span>
+                                </span>
+                            </div>
+
+                            
+
+                            <div class="realtorCardTitle" data-binding="innertext=RealtorPosition">
+                                Salesperson
+                            </div>
+
+                            
+
+                            <div class="realtorCardAddress" data-binding="visible=ShowRealtorAddress,innertext=Address">
+                                
+                            </div>
+
+
+                            
+                            <div class="realtorCardOfficeInfo" data-binding="visible=ShowOfficeInfo">
+                                
+                                <img class="realtorCardOfficeLogo" data-binding="src=OfficeLogoImageURL,visible=ShowOfficeLogo,alt=OfficeAltText" src="https://cdn.realtor.ca/organization/en-CA/TS637431945600000000/lowres/75354.jpg" alt="RE/MAX GARDEN CITY REALTY INC, BROKERAGE logo">
+                                
+                                <div class="realtorCardOfficeName" data-binding="innertext=OfficeName">
+                                    RE/MAX GARDEN CITY REALTY INC, BROKERAGE
+                                </div>
+                                <div class="realtorCardOfficeDesignation" data-binding="innertext=OfficeDesignationName">
+                                    
+                                </div>
+                                <div class="realtorCardOfficeAddress" data-binding="innertext=OfficeAddress">
+                                    LAKE &amp; CARLTON PLAZA, ST. CATHARINES, Ontario L2R7J8
+                                    
+                                </div>
+                            </div>
+                            
+                        </a>
+                        
+                    </div>
+
+                    <div class="realtorCardTopRight realtorCardWrapTopRight">
+                                    
+
+                        
+                    </div>
+                  </div>
+            </div>
+        </div>
+        <div class="realtorCardBottom">
+            <div class="realtorCardInnerBottom">
+                <div class="realtorCardBottomLeft">
+
+                    
+                            <div class="realtorCardPhone" data-type="Telephone"><span class="realtorCardContactIcon"><i class="fa fa-phone"></i></span><span class="realtorCardContactNumber TelephoneNumber">905-641-1110</span></div>
+                        
+
+                    
+
+                            <a href="http://HTTP://www.prantera.com" rel="noopener noreferrer" target="_blank" class="realtorCardWebsite noPrint"><i class="fa fa-external-link realtorCardContactIcon"></i><span class="realtorCardContactNumber">REALTOR<sup>®</sup> Website</span></a>
+
+                        
+
+                    
+                </div>
+                <div class="realtorCardBottomRight">
+
+                    
+                    <div class="realtorCardSocialIcons" data-binding="SocialIcons,visible=ShowSocialIcons">
+
+                        
+
+                    </div>
+                    
+                    <a href="#" class="lnkEmailRealtor blueRoundedBtn btn" data-binding="visible=ShowEmailButton"><span class="fa fa-envelope"></span><span class="realtorCardFooterLinkText">Email</span></a>
+                    
+                </div>
+            </div>
+        </div>
+        
+    </div>
+</div>
+
+
+
+
+
+<script>
+    var obj = new PublicContracts.IndividualBasicDetails();
+    obj.IndividualID = '1537371';
+    obj.Organization = new PublicContracts.OrganizationBasicDetails();
+    obj.Organization.OrganizationID = '75354';
+    var model = new RealtorCardModel(obj, '', '', ''); //TODO - handle JS binding
+    var carousel = new Controls.Desktop.RealtorCard(model, 'realtorCard');
+
+</script>
+</span>
+                    </div>
+                
+        </div>
+
+    </div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="C21772F6">
+</div></form>
+
+
+
+<script>
+    var model = new SearchResultsModel();
+    model.TotalResults = 169287;
+    model.TotalPages = 30;
+    model.CurrentPage = 1;
+    model.StartNum = 1;
+    model.EndNum = 20;
+    model.RecordsPerPage = 20;
+    model.SingleResultURL = "";
+    var carousel = new Controls.Desktop.RealtorResults(model, 'RealtorResults');
+
+</script>
+</span></div>
+
+        <div id="RealtorResultsBottomPaginationCon" class="">
+            <span id="realtorPagination" class="ControlBaseWrapper " style="display: inherit;"> 
+<div class="ResultsPaginationCon">
+    <a aria-label="Go to the first page" href="#" class="lnkFirstResultsPage paginationLink paginationLinkBack btn small" style="display: none;" disabled="disabled">
+        <div class="paginationLinkText"><i class="fa fa-angle-left"></i><i class="fa fa-angle-left"></i></div>
+    </a>
+    <a aria-label="Go to the previous page" href="#" class="lnkPreviousResultsPage paginationLink paginationLinkBack btn small" disabled="disabled">
+        <div class="paginationLinkText"><i class="fa fa-angle-left"></i></div>
+    </a>
+    <div class="paginationInnerCon small">
+
+        
+        <select class="ddlResultsPages select2-hidden-accessible" data-binding="Pages" data-hashkey="page" data-default="1" tabindex="-1" aria-hidden="true"><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option></select><span class="select2 select2-container select2-container--default" dir="ltr" style="width: 55px;"><span class="selection"><span class="select2-selection select2-selection--single paginationDDLCon" role="combobox" aria-label="Search Field" aria-haspopup="true" aria-expanded="false" tabindex="0" aria-labelledby="select2-74ws-container"><span class="select2-selection__rendered" id="select2-74ws-container" title="1">1</span><span class="select2-selection__arrow" role="presentation"><b role="presentation"></b></span></span></span><span class="dropdown-wrapper" aria-hidden="true"></span></span>
+        
+        <div class="paginationDetailsPageDtlCon">
+            <span class="paginationOf">of</span> <span class="paginationTotalPagesNum">30+</span>
+        </div>
+    </div>
+    <a aria-label="Go to the next page" href="#" class="lnkNextResultsPage paginationLink paginationLinkForward btn small">
+        <div class="paginationLinkText"><i class="fa fa-angle-right"></i></div>
+    </a>
+    <a aria-label="Go to the last page" href="#" class="lnkLastResultsPage paginationLink paginationLinkForward btn small" style="display: none;">
+        <div class="paginationLinkText"><i class="fa fa-angle-right"></i><i class="fa fa-angle-right"></i></div>
+    </a>
+
+    
+    <script>
+        var model = new PaginationModel(null);
+        
+            model.AllowPageSelection = true;
+        var carousel = new Controls.Desktop.Pagination(model, 'realtorPagination');
+
+    </script>
+    
+</div>
+</span>
+        </div>
+    </div>
+</div>
+<script>
+    (function ($) {
+        //$.fn.onPageLoad = function () {
+        var model = null;
+        var RealtorResultsPage = new Desktop.Pages.RealtorResults(model, 'MainContent_ctl00_ctl00', '');
+
+        //};
+    }(jQuery));
+</script>
+</span>
+
+
+            </div>
+
+            <!-- Begin comScore Tag --><script>var _comscore = _comscore || [];
+                                                        _comscore.push({ c1: "2", c2: "6035098" });
+                                                        (function() {
+                                                         var s = document.createElement("script"), el =
+                                                        document.getElementsByTagName("script")[0]; s.async = true; s.defer = true;
+                                                         s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") +
+                                                        ".scorecardresearch.com/beacon.js";
+                                                         el.parentNode.insertBefore(s, el);
+                                                        })();
+                                                        </script>
+                                                        <noscript>
+                                                        <img src="http://b.scorecardresearch.com/p?c1=2&c2=6035098&cv=2.0&cj=1" / alt="" />
+                                                        </noscript>
+                                                        <!-- End comScore Tag --><span id="ctl36" class="ControlBaseWrapper " style=""> 
+<footer id="footer" class="">
+    <div id="footerLinkCon" class="noPrint">
+        <div class="footerCol">
+            
+            <a class="footerColItem" id="lnkFooter_FindARealtor" href="/realtors">
+    Find a REALTOR<sup>®</sup></a>
+            <a class="footerColItem" id="lnkFooter_CreateAccount" href="#">Create an Account</a>
+            <a class="footerColItem" id="lnkFooter_CommRes" href="/commercial-resources">Commercial Resources</a>
+            <a class="footerColItem" id="lnkFooter_ExploreCanada" href="/canada/real-estate">Canada Real Estate</a>            
+            <a class="footerColItem" id="lnkFooter_Blog" href="/blog">Living Room Blog</a>
+        </div>
+
+        <div class="footerCol">           
+            <a class="footerColItem" id="lnkFooter_AboutUs" href="/about-realtorca">About REALTOR.ca</a>
+            <a class="footerColItem" id="lnkFooter_DDF" href="/ddf">REALTOR.ca DDF®</a>
+            <a class="footerColItem" id="lnkFooter_AboutCREA" href="https://www.crea.ca/about/organization/" rel="noopener noreferrer" target="_blank">About CREA</a>
+            <a class="footerColItem" id="lnkFooter_RealtorEthics" href="/realtor-code-of-ethics">
+    REALTOR<sup>®</sup> Code of Ethics</a>
+            <a class="footerColItem" id="lnkFooter_RealtorsCare" href="http://www.realtorscare.ca/" rel="noopener noreferrer" target="_blank">REALTORS Care<sup>®</sup></a>          
+        </div>
+
+        <div class="footerCol">
+              <a class="footerColItem" id="lnkSendFeedback" href="javascript:FSR.launchFeedback('BgDKUqs1uIVqao7MDtdKgsXCMR0VT9YG');">Send Feedback</a>
+            <a class="footerColItem" id="lnkFooter_ContactUs" href="/contact-us">Contact Us</a>
+            <a class="footerColItem" id="lnkFooter_FAQ" href="/frequently-asked-questions">FAQ</a>
+            <a class="footerColItem" id="lnkFooter_Privacy" href="/privacy-policy">Privacy Policy</a>
+            <a class="footerColItem" id="lnkFooter_TOS" href="/terms-of-use">Terms of Use</a>            
+            
+        </div>
+    </div>
+    <div id="footerSocialAppCon" class="noPrint">
+        <div id="footerSocialAppConLeft">
+            <div class="footerLabel">Download the REALTOR.ca app</div>
+            <div class="footerContent">
+                <a href="http://itunes.apple.com/ca/app/realtor-ca/id408873309?mt=8" rel="noopener noreferrer" target="_blank">
+                    <img alt="Apple Store logo" style="height: 40px;" src="/images/en-ca/apple_app_store.svg">
+                </a>
+                <a href="https://play.google.com/store/apps/details?id=ca.crea.app.consumer&amp;feature=search_result&amp;hl=en" rel="noopener noreferrer" target="_blank">
+                    <img alt="Google Play logo" style="height: 40px;" src="/images/en-ca/google_play.svg">
+                </a>
+            </div>
+        </div>
+        <div id="footerSocialAppConRight">
+            <div class="footerLabel">Stay Connected</div>
+            <div class="footerContent">
+
+                <a href="https://facebook.com/realtordotca" rel="noopener noreferrer" target="_blank">
+                    <img alt="Facebook logo" style="height: 41px;" id="img_footer_facebook" src="/images/common/icons/svg/icon-facebook-transparent.svg"></a>
+                <a href="https://twitter.com/realtordotca" rel="noopener noreferrer" target="_blank">
+                    <img alt="Twitter logo" style="height: 41px;" id="img_footer_twitter" src="/images/common/icons/svg/icon-twitter-transparent.svg"></a>
+                <a href="https://instagram.com/realtordotca" rel="noopener noreferrer" target="_blank">
+                    <img alt="Instagram logo" style="height: 41px;" id="img_footer_instagram" src="/images/common/icons/svg/icon-instagram-transparent.svg"></a>
+                <a href="https://pinterest.com/realtordotca" rel="noopener noreferrer" target="_blank">
+                    <img alt="Pinterest logo" style="height: 41px;" id="img_footer_pinterest" src="/images/common/icons/svg/icon-pinterest-transparent.svg"></a>
+            </div>
+        </div>
+    </div>
+    <div id="footerLegalCon">
+        <div id="footerMLSCon">
+            <img id="footerMLSLogo" src="/images/common/icons/svg/mls-logo-footer.svg" alt="">
+            <div id="footerMLSText">
+                Trusted listings from REALTOR® Agents. <br>The MLS® mark and associated logos identify professional services rendered by REALTOR® members of CREA to effect the purchase, sale and lease of real estate as part of a cooperative selling system.
+            </div>
+        </div>
+        <div id="footerRealtorCon" class="">
+            <img id="footerRealtorLogo" class="" src="/images/common/icons/svg/realtor-r-footer.svg" alt="">
+            <div id="footerRealtorText" class="">
+                ©2023 The Canadian Real Estate Association. All rights reserved. The trademarks REALTOR®, REALTORS® and the REALTOR® logo are controlled by CREA and identify real estate professionals who are members of CREA.
+            </div>
+        </div>
+    </div>
+</footer>
+
+<script>          
+    var footer = new Controls.Desktop.Footer(null, 'ctl36');
+</script>
+</span>
+        </div>
+        
+        <div id="ToastMessage"></div>
+        <!-- Version: Realtor 7 | 20230213.2 | 3fdd27df6c1ded5663860c410e07beb399b6dcf2 | Monday, February 13, 2023 3:47:53 PM -->
+    </form>
+
+    <div id="feedbackSmall" class="feedbackBtnContainer noPrint" style="display: block;">
+        <span class="feedbackText" onclick="FSR.launchFeedback('BgDKUqs1uIVqao7MDtdKgsXCMR0VT9YG');" style="cursor: pointer; color: #fff; padding: 0;">Feedback</span>
+    </div>
+    <div id="feedbackLarge" class="feedbackBtnContainer noPrint" style="display: none;">
+        <span class="feedbackText" onclick="FSR.launchFeedback('BgDKUqs1uIVqao7MDtdKgsXCMR0VT9YG');" style="cursor: pointer; color: #fff; padding: 0;">Feedback</span>
+        <div class="feedbackCloseBtn" src="//:0" style="margin: 0px 7px 0px 0; cursor: pointer;">
+    </div>
+
+    
+
+    <script>
+        if ('serviceWorker' in navigator) {
+                  
+
+            window.addEventListener('load', function () {
+                navigator.serviceWorker.register('/serviceworker.js', { scope: "/" }).then(function (registration) {
+                    console.log('ServiceWorker registration successful with scope: ', registration.scope);
+                }, function (err) {
+                    console.log('ServiceWorker registration failed: ', err);
+                });
+            });
+        }
+    </script>
+
+
+</div><script type="text/javascript" id="">google_tag_manager[google_tag_manager["GTM-WXXF7GN"].macro(14)].dataLayer.set("property",void 0);google_tag_manager[google_tag_manager["GTM-WXXF7GN"].macro(15)].dataLayer.set("propertySearch",void 0);</script><script type="text/javascript" id="">try{$(document).ready(function(){$("body").on("keydown","#homeSearchInput, #txtMapSearchInput, #FavouriteListingsInput, #NoSavedSearchesInput",function(a){try{if(13===(a.which||a.keyCode)&&$(this).val().length){var b={propertySearch:{areaSearchOccurred:!0,area:$(this).val()},event:"e_geographic_search_keypress"};dataLayer.push(b)}}catch(c){}})})}catch(a){};</script><iframe height="0" width="0" style="display: none; visibility: hidden;" src="https://12431658.fls.doubleclick.net/activityi;src=12431658;type=pgvw-u;cat=crea-005;ord=1;num=7021398828997;gtm=45He3360;auiddc=174426242.1678501663;~oref=https%3A%2F%2Fwww.realtor.ca%2Frealtor-search-results?" data-gtm-yt-inspected-7122254_375="true" data-gtm-yt-inspected-35="true"></iframe><iframe height="0" width="0" style="display: none; visibility: hidden;" src="https://12431658.fls.doubleclick.net/activityi;src=12431658;type=pv-e;cat=crea-005;ord=8848489521755;gtm=45He3360;auiddc=174426242.1678501663;~oref=https%3A%2F%2Fwww.realtor.ca%2Frealtor-search-results?" data-gtm-yt-inspected-7122254_375="true" data-gtm-yt-inspected-35="true"></iframe><script type="text/javascript" id="">var fb_advanced_matching={},cookied_email="";try{cookied_email="undefined","undefined"==cookied_email&&(cookied_email=""),cookied_email=cookied_email.toLowerCase()}catch(a){}""!=cookied_email&&(fb_advanced_matching.em=cookied_email);var cookied_first_name="";try{cookied_first_name="undefined","undefined"==cookied_first_name&&(cookied_first_name=""),cookied_first_name=cookied_first_name.toLowerCase()}catch(a){}""!=cookied_first_name&&(fb_advanced_matching.fn=cookied_first_name);
+var cookied_last_name="";try{cookied_last_name="undefined","undefined"==cookied_last_name&&(cookied_last_name=""),cookied_last_name=cookied_last_name.toLowerCase()}catch(a){}""!=cookied_last_name&&(fb_advanced_matching.ln=cookied_last_name);var cookied_phone="";try{cookied_phone="undefined","undefined"==cookied_phone&&(cookied_phone=""),cookied_phone=cookied_phone.replace(/\D/g,""),cookied_phone=cookied_phone.toLowerCase()}catch(a){}
+""!=cookied_phone&&(fb_advanced_matching.ph=cookied_phone);var cookied_city="";try{cookied_city="undefined","undefined"==cookied_city&&(cookied_city=""),cookied_city=cookied_city.replace(" ","").toLowerCase()}catch(a){}""!=cookied_city&&(fb_advanced_matching.ct=cookied_city);var cookied_state="";try{cookied_state="undefined","undefined"==cookied_state&&(cookied_state=""),cookied_state=cookied_state.toLowerCase(),2<cookied_state.length&&(cookied_state="")}catch(a){}
+""!=cookied_state&&(fb_advanced_matching.st=cookied_state);var cookied_zip="";try{cookied_zip="undefined","undefined"==cookied_zip&&(cookied_zip=""),cookied_zip=cookied_zip.toLowerCase()}catch(a){}""!=cookied_zip&&(fb_advanced_matching.zp=cookied_zip);var cookied_country="";try{cookied_country="undefined","undefined"==cookied_country&&(cookied_country=""),cookied_country=cookied_country.toLowerCase(),2<cookied_country.length&&(cookied_country="")}catch(a){}
+""!=cookied_country&&(fb_advanced_matching.cn=cookied_country);!function(a,e,f,g,b,c,d){a.fbq||(b=a.fbq=function(){b.callMethod?b.callMethod.apply(b,arguments):b.queue.push(arguments)},a._fbq||(a._fbq=b),b.push=b,b.loaded=!0,b.version="2.0",b.agent="fmc-idimension",b.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","//connect.facebook.net/en_US/fbevents.js");fbq("init","507373293206391",fb_advanced_matching);
+fbq("init","254019009807929",fb_advanced_matching);</script>
+
+
+<script type="text/javascript" id="">"undefined"==typeof gigya&&(gigya={isGigya:!0});gigya.defaultEventMaps||(gigya.defaultEventMaps=[]);(function(b,c,d){b.GoogleAnalyticsObject=d;b[d]=b[d]||function(){(b[d].q=b[d].q||[]).push(arguments)}})(window,document,"ga");
+(function(){var b=function(a){return function(e){return e.source?"Gigya "+e.source:"Gigya "+a+" API"}},c=function(a,e,g,f){dataLayer.push({event:"onload_event_gigya",eventCategory:a,eventAction:e,eventLabel:g,eventValue:void 0,eventNonInteractive:!1,eventId:"B987"})},d=["accounts.sociallogin","socialize.login"];void 0!==gigya.events&&gigya.events.addMap({eventMap:[{events:"*",args:[function(a){return a}],method:function(a){if(a)if("beforeRequest"===a.eventName&&"string"===typeof a.methodName&&-1!==
+d.indexOf(a.methodName.toLowerCase()))dataLayer.push({event:"onload_socialLoginStep1",eventCategory:"consumer login",eventAction:"social login step1",eventLabel:a.params.provider,eventValue:void 0,eventNonInteractive:!1,eventId:"B987",socialLoginMethod:a.params.provider});else if("afterResponse"===a.eventName&&"string"===typeof a.methodName&&-1!==a.methodName.indexOf(".logout"))c(b("Logout")(a),"Logout"),google_tag_manager["GTM-WXXF7GN"].macro(40)("consumer_social_signin","0",void 0,"/",void 0);else if("login"===a.eventName&&
+a.provider&&"site"!==a.provider)dataLayer.push({event:"onload_socialLogin",eventCategory:"consumer login",eventAction:"social login",eventLabel:a.provider,eventValue:void 0,eventNonInteractive:!1,eventId:"B987",socialLoginMethod:a.provider}),google_tag_manager["GTM-WXXF7GN"].macro(41)("consumer_social_signin","1",void 0,"/",void 0);else if("login"===a.eventName&&a.provider&&"site"==a.provider)dataLayer.push({event:"onload_standardLogin",eventCategory:"consumer login",eventAction:"standard login",eventLabel:google_tag_manager["GTM-WXXF7GN"].macro(42),
+eventValue:void 0,eventNonInteractive:!1,eventId:"B987"});else if("sendDone"===a.eventName){var e="Gigya "+a.source+" - Share Published",g=a.targetURL;a=a.providers.split(",");for(var f=0;f<a.length;f++)_ga_trackSocial(a[f],e,g)}else"followClicked"===a.eventName?_ga_trackSocial(a.provider,"Gigya Follow - button clicked",a.actionURL,document.location.href):"reactionClicked"===a.eventName?c("Gigya Reaction Bar","Button Clicked",a.reaction.text):"reactionUnclicked"===a.eventName?c("Gigya Reaction Bar",
+"Button Unclicked",a.reaction.text):"commentSubmitted"===a.eventName?c("reviews"==a.mode?"Gigya Reviews":"Gigya Comments","reviews"==a.mode?"Review Published":"Comment Published",a.streamID):"commentVoted"===a.eventName?c("reviews"==a.mode?"Gigya Reviews":"Gigya Comments","reviews"==a.mode?"Review Voted":"Comment Voted",a.streamID):"connectionAdded"===a.eventName?c(b("Add Connection")(a),"Social Connection Added",a.provider):"connectionRemoved"===a.eventName&&c(b("Remove Connection")(a),"Social Connection Removed",
+a.provider)}}]})})();</script>
+<img height="1" width="1" style="display:none;" alt="" src="https://ct.pinterest.com/v3/?event=init&amp;tid=2613502625634&amp;pd[em]=<hashed_email_address>&amp;noscript=1">
+<img height="1" width="1" style="display:none;" alt="" src="https://insight.adsrvr.org/track/pxl/?adv=qveappq&amp;ct=0:hfen3te&amp;fmt=3"><script type="text/javascript" id="">try{fbq("track","PageView")}catch(a){console.log("FB PageView: "+a)};</script></body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html>
